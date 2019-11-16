@@ -1040,6 +1040,41 @@
     ]
   },
   "GCAM": {
+     "Southern Africa": [
+    [
+      {
+        "Angola": "AO"
+      },
+      {
+        "Botswana": "BW"
+      },
+      {
+        "Lesotho": "LS"
+      },
+      {
+        "Malawi": "MW"
+      },
+      {
+        "Mozambique": "MZ"
+      },
+      {
+        "Namibia": "NA"
+      },
+      {
+        "Zimbabwe": "ZW"
+      },
+      {
+        "Swaziland": "SZ"
+      },
+      {
+        "Tanzania": "TZ"
+      },
+      {
+        "Zambia": "ZM"
+      }
+    ],
+    "Angola,Botswana,Lesotho,Malawi,Mozambique,Namibia,Zimbabwe,Swaziland,Tanzania,Zambia"
+  ],
     "Eastern Africa": [
       [
         {
@@ -1073,7 +1108,10 @@
           "Rwanda": "RW"
         },
         {
-          "Sudan": "SS"
+          "Sudan": "SD"
+        },
+        {
+          "South Sudan": "SS"
         },
         {
           "Somalia": "SO"
@@ -1140,7 +1178,7 @@
           "Ghana": "GH"
         },
         {
-          "Guinea": "GQ"
+          "Guinea": "GN"
         },
         {
           "Gambia": "GM"
@@ -1604,14 +1642,6 @@
         }
       ],
       "Russia"
-    ],
-    "South Africa": [
-      [
-        {
-          "South Africa": "ZA"
-        }
-      ],
-      "South Africa"
     ],
     "Northern South America": [
       [
@@ -2713,494 +2743,794 @@
       "GLOBE"
     ]
   },
-  "TIAM": {
-    "Africa": [
-      [
-        {
-          "Algeria": "DZ"
-        },
-        {
-          "Angola": "AO"
-        },
-        {
-          "Benin": "BJ"
-        },
-        {
-          "Botswana": "BW"
-        },
-        {
-          "Cameroon": "CM"
-        },
-        {
-          "Congo": "CG"
-        },
-        {
-          "Democratic Republic of Congo": "CD"
-        },
-        {
-          "Ivory Coast": "CI"
-        },
-        {
-          "Egypt": "EG"
-        },
-        {
-          "Eritrea": "ER"
-        },
-        {
-          "Ethiopia": "ET"
-        },
-        {
-          "Gabon": "GA"
-        },
-        {
-          "Ghana": "GH"
-        },
-        {
-          "Kenya": "KE"
-        },
-        {
-          "Libya": "LY"
-        },
-        {
-          "Morocco": "MA"
-        },
-        {
-          "Mozambique": "MZ"
-        },
-        {
-          "Namibia": "NA"
-        },
-        {
-          "Nigeria": "NG"
-        },
-        {
-          "Senegal": "SN"
-        },
-        {
-          "South Africa": "ZA"
-        },
-        {
-          "Sudan": "SS"
-        },
-        {
-          "United Republic of Tanzania": "TZ"
-        },
-        {
-          "Togo": "TG"
-        },
-        {
-          "Tunisia": "TN"
-        },
-        {
-          "Zambia": "ZM"
-        },
-        {
-          "Zimbabwe": "ZW"
-        }
-      ],
-      "Algeria, Angola, Benin, Botswana, Cameroon, Congo, Democratic Republic of Congo, Côte d’Ivoire, Egypt, Eritrea, Ethiopia, Gabon, Ghana, Kenya, Libya, Morocco, Mozambique, Namibia, Nigeria, Senegal, South Africa, Sudan, United Republic of Tanzania, Togo, Tunisia, Zambia, Zimbabwe   ,and Other Africa"
+  "TIAM":{
+  "Central & South America": [
+    [
+      {
+        "Antigua and Barbuda": "AG"
+      },
+      {
+        "Bahamas": "BS"
+      },
+      {
+        "Barbados": "BB"
+      },
+      {
+        "Bermuda": "BM"
+      },
+      {
+        "Belize": "BZ"
+      },
+      {
+        "British Virgin Islands": "VG"
+      },
+      {
+        "Cayman Islands": "KY"
+      },
+      {
+        "Costa Rica": "CR"
+      },
+      {
+        "Cuba": "CU"
+      },
+      {
+        "Dominica": "DM"
+      },
+      {
+        "Dominican Republic": "DO"
+      },
+      {
+        "El Salvador": "SV"
+      },
+      {
+        "Greenland": "GL"
+      },
+      {
+        "Grenada": "GD"
+      },
+      {
+        "Guadeloupe": "GP"
+      },
+      {
+        "Guatemala": "GT"
+      },
+      {
+        "Haiti": "HT"
+      },
+      {
+        "Honduras": "HN"
+      },
+      {
+        "Jamaica": "JM"
+      },
+      {
+        "Martinique": "MQ"
+      },
+      {
+        "Montserrat": "MS"
+      },
+      {
+        "Netherlands Antilles": "AN"
+      },
+      {
+        "Curaçao": "CW"
+      },
+      {
+        "Aruba": "AW"
+      },
+      {
+        "Sint Maarten (Netherlands)": "SX"
+      },
+      {
+        "Bonaire": "BQ"
+      },
+      {
+        "Nicaragua": "NI"
+      },
+      {
+        "United States Minor Outlying Islands": "UM"
+      },
+      {
+        "Panama": "PA"
+      },
+      {
+        "Puerto Rico": "PR"
+      },
+      {
+        "Saint Barthelemy": "BL"
+      },
+      {
+        "Saint Kitts and Nevis": "KN"
+      },
+      {
+        "Anguilla": "AI"
+      },
+      {
+        "Saint Lucia": "LC"
+      },
+      {
+        "Saint Martin": "MF"
+      },
+      {
+        "Saint Pierre and Miquelon": "PM"
+      },
+      {
+        "Saint Vincent and the Grenadines": "VC"
+      },
+      {
+        "Trinidad and Tobago": "TT"
+      },
+      {
+        "Turks and Caicos Islands": "TC"
+      },
+      {
+        "United States Virgin Islands": "VI"
+      },
+      {
+        "Argentina": "AR"
+      },
+      {
+        "Bolivia": "BO"
+      },
+      {
+        "Brazil": "BR"
+      },
+      {
+        "Chile": "CL"
+      },
+      {
+        "Colombia": "CO"
+      },
+      {
+        "Ecuador": "EC"
+      },
+      {
+        "Falkland Islands (Malvinas)": "FK"
+      },
+      {
+        "French Guiana": "GF"
+      },
+      {
+        "Guyana": "GY"
+      },
+      {
+        "Paraguay": "PY"
+      },
+      {
+        "Peru": "PE"
+      },
+      {
+        "Suriname": "SR"
+      },
+      {
+        "Uruguay": "UY"
+      },
+      {
+        "Venezuela": "VE"
+      }
     ],
-    "Australia, New Zealand, Oceania": [
-      [
-        {
-          "Australia": "AU"
-        },
-        {
-          "New Zealand": "NZ"
-        }
-      ],
-      "Australia, New Zealand, Oceania"
+    "Antigua and Barbuda,Bahamas,Barbados,Bermuda,Belize,British Virgin Islands,Cayman Islands,Costa Rica,Cuba,Dominica,Dominican Republic,El Salvador,Greenland,Grenada,Guadeloupe,Guatemala,Haiti,Honduras,Jamaica,Martinique,Montserrat,Netherlands Antilles,Curaçao,Aruba,Sint Maarten (Netherlands),Bonaire,Nicaragua,United States Minor Outlying Islands,Panama,Puerto Rico,Saint Barthelemy,Saint Kitts and Nevis,Anguilla,Saint Lucia,Saint Martin,Saint Pierre and Miquelon,Saint Vincent and the Grenadines,Trinidad and Tobago,Turks and Caicos Islands,United States Virgin Islands,Argentina,Bolivia,Brazil,Chile,Colombia,Ecuador,Falkland Islands (Malvinas),French Guiana,Guyana,Paraguay,Peru,Suriname,Uruguay,Venezuela"
+  ],
+  "Middle East": [
+    [
+      {
+        "Bahrain": "BH"
+      },
+      {
+        "Iran": "IR"
+      },
+      {
+        "Iraq": "IQ"
+      },
+      {
+        "Israel": "IL"
+      },
+      {
+        "Jordan": "JO"
+      },
+      {
+        "Kuwait": "KW"
+      },
+      {
+        "Lebanon": "LB"
+      },
+      {
+        "Oman": "OM"
+      },
+      {
+        "Qatar": "QA"
+      },
+      {
+        "Saudi Arabia": "SA"
+      },
+      {
+        "Syrian Arab Republic": "SY"
+      },
+      {
+        "United Arab Emirates": "AE"
+      },
+      {
+        "Yemen": "YE"
+      },
+      {
+        "Cyprus": "CY"
+      },
+      {
+        "Turkey": "TR"
+      }
     ],
-    "Canada": [
-      [
-        {
-          "Canada": "CA"
-        }
-      ],
-      "Canada"
+    "Bahrain,Iran,Iraq,Israel,Jordan,Kuwait,Lebanon,Oman,Qatar,Saudi Arabia,Syrian Arab Republic,United Arab Emirates,Yemen,Cyprus,Turkey"
+  ],
+  "Western Europe": [
+    [
+      {
+        "Austria": "AT"
+      },
+      {
+        "Belgium": "BE"
+      },
+      {
+        "Cyprus": "CY"
+      },
+      {
+        "Denmark": "DK"
+      },
+      {
+        "Finland": "FI"
+      },
+      {
+        "France": "FR"
+      },
+      {
+        "Germany": "DE"
+      },
+      {
+        "Greece": "GR"
+      },
+      {
+        "Iceland": "IS"
+      },
+      {
+        "Ireland": "IE"
+      },
+      {
+        "Italy": "IT"
+      },
+      {
+        "Luxembourg": "LU"
+      },
+      {
+        "Malta": "MT"
+      },
+      {
+        "Netherlands": "NL"
+      },
+      {
+        "Norway": "NO"
+      },
+      {
+        "Portugal": "PT"
+      },
+      {
+        "Spain": "ES"
+      },
+      {
+        "Sweden": "SE"
+      },
+      {
+        "Switzerland": "CH"
+      },
+      {
+        "United Kingdom of Great Britain & Northern Ireland": "GB"
+      }
     ],
-    "China": [
-      [
-        {
-          "China": "CN"
-        }
-      ],
-      "China"
+    "Austria,Belgium,Cyprus,Denmark,Finland,France,Germany,Greece,Iceland,Ireland,Italy,Luxembourg,Malta,Netherlands,Norway,Portugal,Spain,Sweden,Switzerland,United Kingdom of Great Britain & Northern Ireland"
+  ],
+  "Africa": [
+    [
+      {
+        "Algeria": "DZ"
+      },
+      {
+        "Angola": "AO"
+      },
+      {
+        "Botswana": "BW"
+      },
+      {
+        "Burundi": "BI"
+      },
+      {
+        "Cameroon": "CM"
+      },
+      {
+        "Cape Verde": "CV"
+      },
+      {
+        "Central African Republic": "CF"
+      },
+      {
+        "Chad": "TD"
+      },
+      {
+        "Comoros": "KM"
+      },
+      {
+        "Mayotte": "YT"
+      },
+      {
+        "Congo": "CG"
+      },
+      {
+        "Congo": "CD"
+      },
+      {
+        "Benin": "BJ"
+      },
+      {
+        "Equatorial Guinea": "GQ"
+      },
+      {
+        "Ethiopia": "ET"
+      },
+      {
+        "Eritrea": "ER"
+      },
+      {
+        "Djibouti": "DJ"
+      },
+      {
+        "Gabon": "GA"
+      },
+      {
+        "Gambia": "GM"
+      },
+      {
+        "Ghana": "GH"
+      },
+      {
+        "Guinea": "GN"
+      },
+      {
+        "Côte d'Ivoire": "CI"
+      },
+      {
+        "Kenya": "KE"
+      },
+      {
+        "Lesotho": "LS"
+      },
+      {
+        "Liberia": "LR"
+      },
+      {
+        "Libyan Arab Jamahiriya": "LY"
+      },
+      {
+        "Madagascar": "MG"
+      },
+      {
+        "Malawi": "MW"
+      },
+      {
+        "Mali": "ML"
+      },
+      {
+        "Mauritania": "MR"
+      },
+      {
+        "Mauritius": "MU"
+      },
+      {
+        "Morocco": "MA"
+      },
+      {
+        "Mozambique": "MZ"
+      },
+      {
+        "Namibia": "NA"
+      },
+      {
+        "Niger": "NE"
+      },
+      {
+        "Nigeria": "NG"
+      },
+      {
+        "Guinea-Bissau": "GW"
+      },
+      {
+        "Reunion": "RE"
+      },
+      {
+        "Rwanda": "RW"
+      },
+      {
+        "Saint Helena": "SH"
+      },
+      {
+        "São Tomé and Príncipe": "ST"
+      },
+      {
+        "Senegal": "SN"
+      },
+      {
+        "Seychelles": "SC"
+      },
+      {
+        "Sierra Leone": "SL"
+      },
+      {
+        "Somalia": "SO"
+      },
+      {
+        "South Africa": "ZA"
+      },
+      {
+        "Zimbabwe": "ZW"
+      },
+      {
+        "South Sudan": "SS"
+      },
+      {
+        "Sudan": "SD"
+      },
+      {
+        "Western Sahara": "EH"
+      },
+      {
+        "Swaziland": "SZ"
+      },
+      {
+        "Togo": "TG"
+      },
+      {
+        "Tunisia": "TN"
+      },
+      {
+        "Uganda": "UG"
+      },
+      {
+        "Egypt": "EG"
+      },
+      {
+        "Tanzania": "TZ"
+      },
+      {
+        "Burkina Faso": "BF"
+      },
+      {
+        "Zambia": "ZM"
+      }
     ],
-    "Central & South America": [
-      [
-        {
-          "Argentina": "AR"
-        },
-        {
-          "Bolivia": "BO"
-        },
-        {
-          "Brazil": "BR"
-        },
-        {
-          "Chile": "CL"
-        },
-        {
-          "Colombia": "CO"
-        },
-        {
-          "Costa Rica": "CR"
-        },
-        {
-          "Cuba": "CU"
-        },
-        {
-          "Dominican Republic": "DO"
-        },
-        {
-          "Ecuador": "EC"
-        },
-        {
-          "El Salvador": "SV"
-        },
-        {
-          "Guatemala": "GT"
-        },
-        {
-          "Haiti": "HT"
-        },
-        {
-          "Honduras": "HN"
-        },
-        {
-          "Jamaica": "JM"
-        },
-        {
-          "Netherlands Antilles": "AN"
-        },
-        {
-          "Nicaragua": "NI"
-        },
-        {
-          "Panama": "PA"
-        },
-        {
-          "Paraguay": "PY"
-        },
-        {
-          "Peru": "PE"
-        },
-        {
-          "Trinidad and Tobago": "TT"
-        },
-        {
-          "Uruguay": "UY"
-        },
-        {
-          "Venezuela": "VE"
-        }
-      ],
-      "Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Guatemala, Haiti, Honduras, Jamaica, Netherlands Antilles, Nicaragua, Panama, Paraguay, Peru, Trinidad and Tobago, Uruguay, Venezuela ,and Other Latin America"
+    "Algeria,Angola,Botswana,Burundi,Cameroon,Cape Verde,Central African Republic,Chad,Comoros,Mayotte,Congo,Congo,Benin,Equatorial Guinea,Ethiopia,Eritrea,Djibouti,Gabon,Gambia,Ghana,Guinea,Côte d'Ivoire,Kenya,Lesotho,Liberia,Libyan Arab Jamahiriya,Madagascar,Malawi,Mali,Mauritania,Mauritius,Morocco,Mozambique,Namibia,Niger,Nigeria,Guinea-Bissau,Reunion,Rwanda,Saint Helena,São Tomé and Príncipe,Senegal,Seychelles,Sierra Leone,Somalia,South Africa,Zimbabwe,South Sudan,Sudan,Western Sahara,Swaziland,Togo,Tunisia,Uganda,Egypt,Tanzania,Burkina Faso,Zambia"
+  ],
+  "(Other) South and Southeast Asia": [
+    [
+      {
+        "Afghanistan": "AF"
+      },
+      {
+        "Bangladesh": "BD"
+      },
+      {
+        "Bhutan": "BT"
+      },
+      {
+        "British Indian Ocean Territory (Chagos Archipelago)": "IO"
+      },
+      {
+        "Brunei Darussalam": "BN"
+      },
+      {
+        "Myanmar": "MM"
+      },
+      {
+        "Cambodia": "KH"
+      },
+      {
+        "Sri Lanka": "LK"
+      },
+      {
+        "Taiwan": "TW"
+      },
+      {
+        "Christmas Island": "CX"
+      },
+      {
+        "Cocos (Keeling) Islands": "CC"
+      },
+      {
+        "Hong Kong": "HK"
+      },
+      {
+        "Indonesia": "ID"
+      },
+      {
+        "Korea": "KP"
+      },
+      {
+        "Lao People's Democratic Republic": "LA"
+      },
+      {
+        "Macao": "MO"
+      },
+      {
+        "Malaysia": "MY"
+      },
+      {
+        "Maldives": "MV"
+      },
+      {
+        "Mongolia": "MN"
+      },
+      {
+        "Nepal": "NP"
+      },
+      {
+        "Pakistan": "PK"
+      },
+      {
+        "Palestine": "PS"
+      },
+      {
+        "Philippines": "PH"
+      },
+      {
+        "Timor-Leste": "TL"
+      },
+      {
+        "Singapore": "SG"
+      },
+      {
+        "Vietnam": "VN"
+      },
+      {
+        "Thailand": "TH"
+      },
+      {
+        "Yemen": "YE"
+      }
     ],
-    "Eastern Europe": [
-      [
-        {
-          "Albania": "AL"
-        },
-        {
-          "Bosnia-Herzegovina": "BA"
-        },
-        {
-          "Bulgaria": "BG"
-        },
-        {
-          "Croatia": "HR"
-        },
-        {
-          "Czech Republic": "CZ"
-        },
-        {
-          "Hungary": "HU"
-        },
-        {
-          "Macedonia": "MK"
-        },
-        {
-          "Poland": "PL"
-        },
-        {
-          "Romania": "RO"
-        },
-        {
-          "Serbia": "RS"
-        },
-        {
-          "Montenegro": "ME"
-        },
-        {
-          "Slovenia": "SI"
-        },
-        {
-          "Slovakia": "SK"
-        }
-      ],
-      "Albania, Bosnia-Herzegovina, Bulgaria, Croatia, Czech Republic, Hungary, Macedonia, Poland, Romania, Serbia, Montenegro, Slovenia, Slovakia"
+    "Afghanistan,Bangladesh,Bhutan,British Indian Ocean Territory (Chagos Archipelago),Brunei Darussalam,Myanmar,Cambodia,Sri Lanka,Taiwan,Christmas Island,Cocos (Keeling) Islands,Hong Kong,Indonesia,Korea,Lao People's Democratic Republic,Macao,Malaysia,Maldives,Mongolia,Nepal,Pakistan,Palestine,Philippines,Timor-Leste,Singapore,Vietnam,Thailand,Yemen"
+  ],
+  "Canada": [
+    [
+      {
+        "Canada": "CA"
+      }
     ],
-    "India": [
-      [
-        {
-          "India": "IO"
-        }
-      ],
-      "India"
+    "Canada"
+  ],
+  "India": [
+    [
+      {
+        "India": "IN"
+      }
     ],
-    "Japan": [
-      [
-        {
-          "Japan": "JP"
-        }
-      ],
-      "Japan"
+    "India"
+  ],
+  "Mexico": [
+    [
+      {
+        "Mexico": "MX"
+      }
     ],
-    "Middle East": [
-      [
-        {
-          "Bahrain": "BH"
-        },
-        {
-          "Islamic Republic of Iran": "IR"
-        },
-        {
-          "Iraq": "IQ"
-        },
-        {
-          "Israel": "IL"
-        },
-        {
-          "Jordan": "JO"
-        },
-        {
-          "Kuwait": "KW"
-        },
-        {
-          "Lebanon": "LB"
-        },
-        {
-          "Oman": "OM"
-        },
-        {
-          "Qatar": "QA"
-        },
-        {
-          "Saudi Arabia": "SA"
-        },
-        {
-          "Syria": "SY"
-        },
-        {
-          "United Arab Emirates": "AE"
-        },
-        {
-          "Yemen": "YE"
-        },
-        {
-          "Turkey": "TR"
-        },
-        {
-          "Cyprus": "CY"
-        }
-      ],
-      "Bahrain, Islamic Republic of Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia, Syria, United Arab Emirates, Yemen, Turkey, Cyprus"
+    "Mexico"
+  ],
+  "Japan": [
+    [
+      {
+        "Japan": "JP"
+      }
     ],
-    "Mexico": [
-      [
-        {
-          "Mexico": "MX"
-        }
-      ],
-      "Mexico"
+    "Japan"
+  ],
+  "Russia and Central Asia": [
+    [
+      {
+        "Azerbaijan": "AZ"
+      },
+      {
+        "Armenia": "AM"
+      },
+      {
+        "Belarus": "BY"
+      },
+      {
+        "Estonia": "EE"
+      },
+      {
+        "Georgia": "GE"
+      },
+      {
+        "Kazakhstan": "KZ"
+      },
+      {
+        "Latvia": "LV"
+      },
+      {
+        "Lithuania": "LT"
+      },
+      {
+        "Moldova": "MD"
+      },
+      {
+        "Russian Federation": "RU"
+      },
+      {
+        "Ukraine": "UA"
+      },
+      {
+        "Kyrgyz Republic": "KG"
+      },
+      {
+        "Tajikistan": "TJ"
+      },
+      {
+        "Turkmenistan": "TM"
+      },
+      {
+        "Uzbekistan": "UZ"
+      }
     ],
-    "Russia and Central Asia": [
-      [
-        {
-          "Armenia": "AM"
-        },
-        {
-          "Azerbaijan": "AZ"
-        },
-        {
-          "Belarus": "BY"
-        },
-        {
-          "Estonia": "EE"
-        },
-        {
-          "Georgia": "GE"
-        },
-        {
-          "Kazakhstan": "KZ"
-        },
-        {
-          "Kyrgyzstan": "KG"
-        },
-        {
-          "Latvia": "LV"
-        },
-        {
-          "Lithuania": "LT"
-        },
-        {
-          "Moldova": "MD"
-        },
-        {
-          "Tajikistan": "TJ"
-        },
-        {
-          "Turkmenistan": "TM"
-        },
-        {
-          "Ukraine": "UA"
-        },
-        {
-          "Uzbekistan": "UZ"
-        },
-        {
-          "Russian Federation": "RU"
-        }
-      ],
-      "Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, Tajikistan, Turkmenistan, Ukraine, Uzbekistan, Russian Federation"
+    "Azerbaijan,Armenia,Belarus,Estonia,Georgia,Kazakhstan,Latvia,Lithuania,Moldova,Russian Federation,Ukraine,Kyrgyz Republic,Tajikistan,Turkmenistan,Uzbekistan"
+  ],
+  "China": [
+    [
+      {
+        "China": "CN"
+      }
     ],
-    "Republic of Korea": [
-      [
-        {
-          "Republic of Korea": "KP"
-        }
-      ],
-      "Republic of Korea"
+    "China"
+  ],
+  "US": [
+    [
+      {
+        "United States of America": "US"
+      }
     ],
-    "(Other) South and Southeast Asia": [
-      [
-        {
-          "Bangladesh": "BD"
-        },
-        {
-          "Brunei Darussalam": "BN"
-        },
-        {
-          "Cambodia": "KH"
-        },
-        {
-          "Taiwan": "TW"
-        },
-        {
-          "Indonesia": "ID"
-        },
-        {
-          "Democratic People's Republic of Korea": "KP"
-        },
-        {
-          "Malaysia": "MY"
-        },
-        {
-          "Mongolia": "MN"
-        },
-        {
-          "Myanmar": "MM"
-        },
-        {
-          "Nepal": "NP"
-        },
-        {
-          "Pakistan": "PK"
-        },
-        {
-          "Philippines": "PH"
-        },
-        {
-          "Singapore": "SG"
-        },
-        {
-          "Sri Lanka": "LK"
-        },
-        {
-          "Thailand": "TH"
-        },
-        {
-          "Vietnam": "VN"
-        }
-      ],
-      "Bangladesh, Brunei Darussalam, Cambodia, Taiwan (China), Indonesia, DPR of Korea, Malaysia, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Singapore, Sri Lanka, Thailand, Vietnam ,and Other Asia"
+    "United States of America"
+  ],
+  "Australia": [
+    [
+      {
+        "American Samoa": "AS"
+      },
+      {
+        "Australia": "AU"
+      },
+      {
+        "Solomon Islands": "SB"
+      },
+      {
+        "Cook Islands": "CK"
+      },
+      {
+        "Fiji": "FJ"
+      },
+      {
+        "French Polynesia": "PF"
+      },
+      {
+        "Kiribati": "KI"
+      },
+      {
+        "Guam": "GU"
+      },
+      {
+        "Nauru": "NR"
+      },
+      {
+        "New Caledonia": "NC"
+      },
+      {
+        "Vanuatu": "VU"
+      },
+      {
+        "New Zealand": "NZ"
+      },
+      {
+        "Niue": "NU"
+      },
+      {
+        "Norfolk Island": "NF"
+      },
+      {
+        "Northern Mariana Islands": "MP"
+      },
+      {
+        "United States Minor Outlying Islands": "UM"
+      },
+      {
+        "Micronesia": "FM"
+      },
+      {
+        "Marshall Islands": "MH"
+      },
+      {
+        "Palau": "PW"
+      },
+      {
+        "Papua New Guinea": "PG"
+      },
+      {
+        "Pitcairn Islands": "PN"
+      },
+      {
+        "Tokelau": "TK"
+      },
+      {
+        "Tonga": "TO"
+      },
+      {
+        "Tuvalu": "TV"
+      },
+      {
+        "Wallis and Futuna": "WF"
+      },
+      {
+        "Samoa": "WS"
+      },
+      {
+        "Disputed Territory": "XX"
+      }
     ],
-    "USA": [
-      [
-        {
-          "USA": "US"
-        }
-      ],
-      "USA"
+    "American Samoa,Australia,Solomon Islands,Cook Islands,Fiji,French Polynesia,Kiribati,Guam,Nauru,New Caledonia,Vanuatu,New Zealand,Niue,Norfolk Island,Northern Mariana Islands,United States Minor Outlying Islands,Micronesia,Marshall Islands,Palau,Papua New Guinea,Pitcairn Islands,Tokelau,Tonga,Tuvalu,Wallis and Futuna,Samoa,Disputed Territory"
+  ],
+  "Republic of Korea": [
+    [
+      {
+        "Korea": "KR"
+      }
     ],
-    "Western Europe": [
-      [
-        {
-          "Austria": "AT"
-        },
-        {
-          "Belgium": "BE"
-        },
-        {
-          "Cyprus": "CY"
-        },
-        {
-          "Denmark": "DK"
-        },
-        {
-          "Finland": "FI"
-        },
-        {
-          "France": "FR"
-        },
-        {
-          "Germany": "DE"
-        },
-        {
-          "Greece": "GR"
-        },
-        {
-          "Iceland": "IS"
-        },
-        {
-          "Ireland": "IE"
-        },
-        {
-          "Italy": "IT"
-        },
-        {
-          "Luxembourg": "LU"
-        },
-        {
-          "Malta": "MT"
-        },
-        {
-          "Norway": "NO"
-        },
-        {
-          "Portugal": "PT"
-        },
-        {
-          "Spain": "ES"
-        },
-        {
-          "Sweden": "SE"
-        },
-        {
-          "Switzerland": "CH"
-        },
-        {
-          "Netherlands": "NL"
-        },
-        {
-          "UK": "UA"
-        }
-      ],
-      "Austria, Belgium, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland, Ireland, Italy, Luxembourg, Malta, Norway, Portugal, Spain, Sweden, Switzerland, The Netherlands, UK"
-    ]
-  },
+    "Korea"
+  ],
+  "Eastern Europe": [
+    [
+      {
+        "Albania": "AL"
+      },
+      {
+        "Bosnia and Herzegovina": "BA"
+      },
+      {
+        "Bulgaria": "BG"
+      },
+      {
+        "Croatia": "HR"
+      },
+      {
+        "Czech Republic": "CZ"
+      },
+      {
+        "Hungary": "HU"
+      },
+      {
+        "Montenegro": "ME"
+      },
+      {
+        "Poland": "PL"
+      },
+      {
+        "Romania": "RO"
+      },
+      {
+        "Serbia": "RS"
+      },
+      {
+        "Slovakia (Slovak Republic)": "SK"
+      },
+      {
+        "Slovenia": "SI"
+      },
+      {
+        "Macedonia": "MK"
+      }
+    ],
+    "Albania,Bosnia and Herzegovina,Bulgaria,Croatia,Czech Republic,Hungary,Montenegro,Poland,Romania,Serbia,Slovakia (Slovak Republic),Slovenia,Macedonia"
+  ]
+},
   "FORECAST": {
     "Region of FORECAST": [
       [
