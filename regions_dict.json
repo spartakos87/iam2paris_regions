@@ -1818,6 +1818,68 @@
     ]
   },
   "ICES": {
+    "RoMENA": [
+    [
+      {
+        "Algeria": "DZ"
+      },
+      {
+        "Djibouti": "DJ"
+      },
+      {
+        "Eritrea": "ER"
+      },
+      {
+        "Iran": "IR"
+      },
+      {
+        "Iraq": "IQ"
+      },
+      {
+        "Israel": "IL"
+      },
+      {
+        "Lebanon": "LB"
+      },
+      {
+        "Libyan Arab Jamahiriya": "LY"
+      },
+      {
+        "Morocco": "MA"
+      },
+      {
+        "Oman": "OM"
+      },
+      {
+        "Saudi Arabia": "SA"
+      },
+      {
+        "Somalia": "SO"
+      },
+      {
+        "South Sudan": "SS"
+      },
+      {
+        "Sudan": "SD"
+      },
+      {
+        "Syrian Arab Republic": "SY"
+      },
+      {
+        "Tunisia": "TN"
+      },
+      {
+        "United Arab Emirates": "AE"
+      },
+      {
+        "Western Sahara": "EH"
+      },
+      {
+        "Yemen": "YE"
+      }
+    ],
+    "Algeria,Djibouti,Eritrea,Iran,Iraq,Israel,Lebanon,Libyan Arab Jamahiriya,Morocco,Oman,Saudi Arabia,Somalia,South Sudan,Sudan,Syrian Arab Republic,Tunisia,United Arab Emirates,Western Sahara,Yemen"
+  ],
     "Australia": [
       [
         {
@@ -1854,10 +1916,10 @@
       ],
       "Japan"
     ],
-    "SouthKorea": [
+    "South Korea": [
       [
         {
-          "Republic of Korea": "KP"
+          "Republic of Korea": "KR"
         }
       ],
       "South Korea"
@@ -2226,7 +2288,7 @@
     "UK": [
       [
         {
-          "UK": "UA"
+          "UK": "GB"
         }
       ],
       "UK"
