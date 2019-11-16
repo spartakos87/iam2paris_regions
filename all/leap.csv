@@ -1,0 +1,258 @@
+REGION,A-2,A-3,#,Country Name
+"Algeria, People's Democratic Republic of",DZ,DZA,12,"Algeria, People's Democratic Republic of"
+"Angola, Republic of",AO,AGO,24,"Angola, Republic of"
+"Botswana, Republic of",BW,BWA,72,"Botswana, Republic of"
+"Burundi, Republic of",BI,BDI,108,"Burundi, Republic of"
+"Cameroon, Republic of",CM,CMR,120,"Cameroon, Republic of"
+"Cape Verde, Republic of",CV,CPV,132,"Cape Verde, Republic of"
+Central African Republic,CF,CAF,140,Central African Republic
+"Chad, Republic of",TD,TCD,148,"Chad, Republic of"
+"Comoros, Union of the",KM,COM,174,"Comoros, Union of the"
+Mayotte,YT,MYT,175,Mayotte
+"Congo, Republic of the",CG,COG,178,"Congo, Republic of the"
+"Congo, Democratic Republic of the",CD,COD,180,"Congo, Democratic Republic of the"
+"Benin, Republic of",BJ,BEN,204,"Benin, Republic of"
+"Equatorial Guinea, Republic of",GQ,GNQ,226,"Equatorial Guinea, Republic of"
+"Ethiopia, Federal Democratic Republic of",ET,ETH,231,"Ethiopia, Federal Democratic Republic of"
+"Eritrea, State of",ER,ERI,232,"Eritrea, State of"
+"Djibouti, Republic of",DJ,DJI,262,"Djibouti, Republic of"
+"Gabon, Gabonese Republic",GA,GAB,266,"Gabon, Gabonese Republic"
+"Gambia, Republic of the",GM,GMB,270,"Gambia, Republic of the"
+"Ghana, Republic of",GH,GHA,288,"Ghana, Republic of"
+"Guinea, Republic of",GN,GIN,324,"Guinea, Republic of"
+"Côte d'Ivoire, Republic of",CI,CIV,384,"Côte d'Ivoire, Republic of"
+"Kenya, Republic of",KE,KEN,404,"Kenya, Republic of"
+"Lesotho, Kingdom of",LS,LSO,426,"Lesotho, Kingdom of"
+"Liberia, Republic of",LR,LBR,430,"Liberia, Republic of"
+Libyan Arab Jamahiriya,LY,LBY,434,Libyan Arab Jamahiriya
+"Madagascar, Republic of",MG,MDG,450,"Madagascar, Republic of"
+"Malawi, Republic of",MW,MWI,454,"Malawi, Republic of"
+"Mali, Republic of",ML,MLI,466,"Mali, Republic of"
+"Mauritania, Islamic Republic of",MR,MRT,478,"Mauritania, Islamic Republic of"
+"Mauritius, Republic of",MU,MUS,480,"Mauritius, Republic of"
+"Morocco, Kingdom of",MA,MAR,504,"Morocco, Kingdom of"
+"Mozambique, Republic of",MZ,MOZ,508,"Mozambique, Republic of"
+"Namibia, Republic of",NA,NAM,516,"Namibia, Republic of"
+"Niger, Republic of",NE,NER,562,"Niger, Republic of"
+"Nigeria, Federal Republic of",NG,NGA,566,"Nigeria, Federal Republic of"
+"Guinea-Bissau, Republic of",GW,GNB,624,"Guinea-Bissau, Republic of"
+Reunion,RE,REU,638,Reunion
+"Rwanda, Republic of",RW,RWA,646,"Rwanda, Republic of"
+Saint Helena,SH,SHN,654,Saint Helena
+"São Tomé and Príncipe, Democratic Republic of",ST,STP,678,"São Tomé and Príncipe, Democratic Republic of"
+"Senegal, Republic of",SN,SEN,686,"Senegal, Republic of"
+"Seychelles, Republic of",SC,SYC,690,"Seychelles, Republic of"
+"Sierra Leone, Republic of",SL,SLE,694,"Sierra Leone, Republic of"
+"Somalia, Somali Republic",SO,SOM,706,"Somalia, Somali Republic"
+"South Africa, Republic of",ZA,ZAF,710,"South Africa, Republic of"
+"Zimbabwe, Republic of",ZW,ZWE,716,"Zimbabwe, Republic of"
+South Sudan,SS,SSD,728,South Sudan
+"Sudan, Republic of",SD,SDN,729,"Sudan, Republic of"
+Western Sahara,EH,ESH,732,Western Sahara
+"Swaziland, Kingdom of",SZ,SWZ,748,"Swaziland, Kingdom of"
+"Togo, Togolese Republic",TG,TGO,768,"Togo, Togolese Republic"
+"Tunisia, Tunisian Republic",TN,TUN,788,"Tunisia, Tunisian Republic"
+"Uganda, Republic of",UG,UGA,800,"Uganda, Republic of"
+"Egypt, Arab Republic of",EG,EGY,818,"Egypt, Arab Republic of"
+"Tanzania, United Republic of",TZ,TZA,834,"Tanzania, United Republic of"
+Burkina Faso,BF,BFA,854,Burkina Faso
+"Zambia, Republic of",ZM,ZMB,894,"Zambia, Republic of"
+Antarctica (the territory South of 60 deg S),AQ,ATA,10,Antarctica (the territory South of 60 deg S)
+Bouvet Island (Bouvetoya),BV,BVT,74,Bouvet Island (Bouvetoya)
+South Georgia and the South Sandwich Islands,GS,SGS,239,South Georgia and the South Sandwich Islands
+French Southern Territories,TF,ATF,260,French Southern Territories
+Heard Island and McDonald Islands,HM,HMD,334,Heard Island and McDonald Islands
+"Afghanistan, Islamic Republic of",AF,AFG,4,"Afghanistan, Islamic Republic of"
+"Azerbaijan, Republic of",AZ,AZE,31,"Azerbaijan, Republic of"
+"Bahrain, Kingdom of",BH,BHR,48,"Bahrain, Kingdom of"
+"Bangladesh, People's Republic of",BD,BGD,50,"Bangladesh, People's Republic of"
+"Armenia, Republic of",AM,ARM,51,"Armenia, Republic of"
+"Bhutan, Kingdom of",BT,BTN,64,"Bhutan, Kingdom of"
+British Indian Ocean Territory (Chagos Archipelago),IO,IOT,86,British Indian Ocean Territory (Chagos Archipelago)
+Brunei Darussalam,BN,BRN,96,Brunei Darussalam
+"Myanmar, Union of",MM,MMR,104,"Myanmar, Union of"
+"Cambodia, Kingdom of",KH,KHM,116,"Cambodia, Kingdom of"
+"Sri Lanka, Democratic Socialist Republic of",LK,LKA,144,"Sri Lanka, Democratic Socialist Republic of"
+"China, People's Republic of",CN,CHN,156,"China, People's Republic of"
+Taiwan,TW,TWN,158,Taiwan
+Christmas Island,CX,CXR,162,Christmas Island
+Cocos (Keeling) Islands,CC,CCK,166,Cocos (Keeling) Islands
+"Cyprus, Republic of",CY,CYP,196,"Cyprus, Republic of"
+Georgia,GE,GEO,268,Georgia
+"Hong Kong, Special Administrative Region of China",HK,HKG,344,"Hong Kong, Special Administrative Region of China"
+"India, Republic of",IN,IND,356,"India, Republic of"
+"Indonesia, Republic of",ID,IDN,360,"Indonesia, Republic of"
+"Iran, Islamic Republic of",IR,IRN,364,"Iran, Islamic Republic of"
+"Iraq, Republic of",IQ,IRQ,368,"Iraq, Republic of"
+"Israel, State of",IL,ISR,376,"Israel, State of"
+Japan,JP,JPN,392,Japan
+"Kazakhstan, Republic of",KZ,KAZ,398,"Kazakhstan, Republic of"
+"Jordan, Hashemite Kingdom of",JO,JOR,400,"Jordan, Hashemite Kingdom of"
+"Korea, Democratic People's Republic of",KP,PRK,408,"Korea, Democratic People's Republic of"
+"Korea, Republic of",KR,KOR,410,"Korea, Republic of"
+"Kuwait, State of",KW,KWT,414,"Kuwait, State of"
+Kyrgyz Republic,KG,KGZ,417,Kyrgyz Republic
+Lao People's Democratic Republic,LA,LAO,418,Lao People's Democratic Republic
+"Lebanon, Lebanese Republic",LB,LBN,422,"Lebanon, Lebanese Republic"
+"Macao, Special Administrative Region of China",MO,MAC,446,"Macao, Special Administrative Region of China"
+Malaysia,MY,MYS,458,Malaysia
+"Maldives, Republic of",MV,MDV,462,"Maldives, Republic of"
+Mongolia,MN,MNG,496,Mongolia
+"Oman, Sultanate of",OM,OMN,512,"Oman, Sultanate of"
+"Nepal, State of",NP,NPL,524,"Nepal, State of"
+"Pakistan, Islamic Republic of",PK,PAK,586,"Pakistan, Islamic Republic of"
+"Palestine, state of",PS,PSE,275,"Palestine, state of"
+"Philippines, Republic of the",PH,PHL,608,"Philippines, Republic of the"
+"Timor-Leste, Democratic Republic of",TL,TLS,626,"Timor-Leste, Democratic Republic of"
+"Qatar, State of",QA,QAT,634,"Qatar, State of"
+Russian Federation,RU,RUS,643,Russian Federation
+"Saudi Arabia, Kingdom of",SA,SAU,682,"Saudi Arabia, Kingdom of"
+"Singapore, Republic of",SG,SGP,702,"Singapore, Republic of"
+"Vietnam, Socialist Republic of",VN,VNM,704,"Vietnam, Socialist Republic of"
+Syrian Arab Republic,SY,SYR,760,Syrian Arab Republic
+"Tajikistan, Republic of",TJ,TJK,762,"Tajikistan, Republic of"
+"Thailand, Kingdom of",TH,THA,764,"Thailand, Kingdom of"
+United Arab Emirates,AE,ARE,784,United Arab Emirates
+"Turkey, Republic of",TR,TUR,792,"Turkey, Republic of"
+Turkmenistan,TM,TKM,795,Turkmenistan
+"Uzbekistan, Republic of",UZ,UZB,860,"Uzbekistan, Republic of"
+Yemen,YE,YEM,887,Yemen
+"Albania, Republic of",AL,ALB,8,"Albania, Republic of"
+"Andorra, Principality of",AD,AND,20,"Andorra, Principality of"
+"Azerbaijan, Republic of",AZ,AZE,31,"Azerbaijan, Republic of"
+"Austria, Republic of",AT,AUT,40,"Austria, Republic of"
+"Armenia, Republic of",AM,ARM,51,"Armenia, Republic of"
+"Belgium, Kingdom of",BE,BEL,56,"Belgium, Kingdom of"
+Bosnia and Herzegovina,BA,BIH,70,Bosnia and Herzegovina
+"Bulgaria, Republic of",BG,BGR,100,"Bulgaria, Republic of"
+"Belarus, Republic of",BY,BLR,112,"Belarus, Republic of"
+"Croatia, Republic of",HR,HRV,191,"Croatia, Republic of"
+Czech Republic,CZ,CZE,203,Czech Republic
+"Denmark, Kingdom of",DK,DNK,208,"Denmark, Kingdom of"
+"Estonia, Republic of",EE,EST,233,"Estonia, Republic of"
+Faroe Islands,FO,FRO,234,Faroe Islands
+"Finland, Republic of",FI,FIN,246,"Finland, Republic of"
+Åland Islands,AX,ALA,248,Åland Islands
+"France, French Republic",FR,FRA,250,"France, French Republic"
+Georgia,GE,GEO,268,Georgia
+"Germany, Federal Republic of",DE,DEU,276,"Germany, Federal Republic of"
+Gibraltar,GI,GIB,292,Gibraltar
+"Greece, Hellenic Republic",GR,GRC,300,"Greece, Hellenic Republic"
+Holy See (Vatican City State),VA,VAT,336,Holy See (Vatican City State)
+"Hungary, Republic of",HU,HUN,348,"Hungary, Republic of"
+"Iceland, Republic of",IS,ISL,352,"Iceland, Republic of"
+Ireland,IE,IRL,372,Ireland
+"Italy, Italian Republic",IT,ITA,380,"Italy, Italian Republic"
+"Kazakhstan, Republic of",KZ,KAZ,398,"Kazakhstan, Republic of"
+"Latvia, Republic of",LV,LVA,428,"Latvia, Republic of"
+"Liechtenstein, Principality of",LI,LIE,438,"Liechtenstein, Principality of"
+"Lithuania, Republic of",LT,LTU,440,"Lithuania, Republic of"
+"Luxembourg, Grand Duchy of",LU,LUX,442,"Luxembourg, Grand Duchy of"
+"Malta, Republic of",MT,MLT,470,"Malta, Republic of"
+"Monaco, Principality of",MC,MCO,492,"Monaco, Principality of"
+"Moldova, Republic of",MD,MDA,498,"Moldova, Republic of"
+"Montenegro, Republic of",ME,MNE,499,"Montenegro, Republic of"
+"Netherlands, Kingdom of the",NL,NLD,528,"Netherlands, Kingdom of the"
+"Norway, Kingdom of",NO,NOR,578,"Norway, Kingdom of"
+"Poland, Republic of",PL,POL,616,"Poland, Republic of"
+"Portugal, Portuguese Republic",PT,PRT,620,"Portugal, Portuguese Republic"
+Romania,RO,ROU,642,Romania
+Russian Federation,RU,RUS,643,Russian Federation
+"San Marino, Republic of",SM,SMR,674,"San Marino, Republic of"
+"Serbia, Republic of",RS,SRB,688,"Serbia, Republic of"
+Slovakia (Slovak Republic),SK,SVK,703,Slovakia (Slovak Republic)
+"Slovenia, Republic of",SI,SVN,705,"Slovenia, Republic of"
+"Spain, Kingdom of",ES,ESP,724,"Spain, Kingdom of"
+Svalbard & Jan Mayen Islands,SJ,SJM,744,Svalbard & Jan Mayen Islands
+"Sweden, Kingdom of",SE,SWE,752,"Sweden, Kingdom of"
+"Switzerland, Swiss Confederation",CH,CHE,756,"Switzerland, Swiss Confederation"
+"Turkey, Republic of",TR,TUR,792,"Turkey, Republic of"
+Ukraine,UA,UKR,804,Ukraine
+"Macedonia, The Former Yugoslav Republic of",MK,MKD,807,"Macedonia, The Former Yugoslav Republic of"
+United Kingdom of Great Britain & Northern Ireland,GB,GBR,826,United Kingdom of Great Britain & Northern Ireland
+"Guernsey, Bailiwick of",GG,GGY,831,"Guernsey, Bailiwick of"
+"Jersey, Bailiwick of",JE,JEY,832,"Jersey, Bailiwick of"
+Isle of Man,IM,IMN,833,Isle of Man
+Antigua and Barbuda,AG,ATG,28,Antigua and Barbuda
+"Bahamas, Commonwealth of the",BS,BHS,44,"Bahamas, Commonwealth of the"
+Barbados,BB,BRB,52,Barbados
+Bermuda,BM,BMU,60,Bermuda
+Belize,BZ,BLZ,84,Belize
+British Virgin Islands,VG,VGB,92,British Virgin Islands
+Canada,CA,CAN,124,Canada
+Cayman Islands,KY,CYM,136,Cayman Islands
+"Costa Rica, Republic of",CR,CRI,188,"Costa Rica, Republic of"
+"Cuba, Republic of",CU,CUB,192,"Cuba, Republic of"
+"Dominica, Commonwealth of",DM,DMA,212,"Dominica, Commonwealth of"
+Dominican Republic,DO,DOM,214,Dominican Republic
+"El Salvador, Republic of",SV,SLV,222,"El Salvador, Republic of"
+Greenland,GL,GRL,304,Greenland
+Grenada,GD,GRD,308,Grenada
+Guadeloupe,GP,GLP,312,Guadeloupe
+"Guatemala, Republic of",GT,GTM,320,"Guatemala, Republic of"
+"Haiti, Republic of",HT,HTI,332,"Haiti, Republic of"
+"Honduras, Republic of",HN,HND,340,"Honduras, Republic of"
+Jamaica,JM,JAM,388,Jamaica
+Martinique,MQ,MTQ,474,Martinique
+"Mexico, United Mexican States",MX,MEX,484,"Mexico, United Mexican States"
+Montserrat,MS,MSR,500,Montserrat
+Netherlands Antilles,AN,ANT,530,Netherlands Antilles
+Curaçao,CW,CUW,531,Curaçao
+Aruba,AW,ABW,533,Aruba
+Sint Maarten (Netherlands),SX,SXM,534,Sint Maarten (Netherlands)
+"Bonaire, Sint Eustatius and Saba",BQ,BES,535,"Bonaire, Sint Eustatius and Saba"
+"Nicaragua, Republic of",NI,NIC,558,"Nicaragua, Republic of"
+United States Minor Outlying Islands,UM,UMI,581,United States Minor Outlying Islands
+"Panama, Republic of",PA,PAN,591,"Panama, Republic of"
+"Puerto Rico, Commonwealth of",PR,PRI,630,"Puerto Rico, Commonwealth of"
+Saint Barthelemy,BL,BLM,652,Saint Barthelemy
+"Saint Kitts and Nevis, Federation of",KN,KNA,659,"Saint Kitts and Nevis, Federation of"
+Anguilla,AI,AIA,660,Anguilla
+Saint Lucia,LC,LCA,662,Saint Lucia
+Saint Martin,MF,MAF,663,Saint Martin
+Saint Pierre and Miquelon,PM,SPM,666,Saint Pierre and Miquelon
+Saint Vincent and the Grenadines,VC,VCT,670,Saint Vincent and the Grenadines
+"Trinidad and Tobago, Republic of",TT,TTO,780,"Trinidad and Tobago, Republic of"
+Turks and Caicos Islands,TC,TCA,796,Turks and Caicos Islands
+United States of America,US,USA,840,United States of America
+United States Virgin Islands,VI,VIR,850,United States Virgin Islands
+American Samoa,AS,ASM,16,American Samoa
+"Australia, Commonwealth of",AU,AUS,36,"Australia, Commonwealth of"
+Solomon Islands,SB,SLB,90,Solomon Islands
+Cook Islands,CK,COK,184,Cook Islands
+"Fiji, Republic of the Fiji Islands",FJ,FJI,242,"Fiji, Republic of the Fiji Islands"
+French Polynesia,PF,PYF,258,French Polynesia
+"Kiribati, Republic of",KI,KIR,296,"Kiribati, Republic of"
+Guam,GU,GUM,316,Guam
+"Nauru, Republic of",NR,NRU,520,"Nauru, Republic of"
+New Caledonia,NC,NCL,540,New Caledonia
+"Vanuatu, Republic of",VU,VUT,548,"Vanuatu, Republic of"
+New Zealand,NZ,NZL,554,New Zealand
+Niue,NU,NIU,570,Niue
+Norfolk Island,NF,NFK,574,Norfolk Island
+"Northern Mariana Islands, Commonwealth of the",MP,MNP,580,"Northern Mariana Islands, Commonwealth of the"
+United States Minor Outlying Islands,UM,UMI,581,United States Minor Outlying Islands
+"Micronesia, Federated States of",FM,FSM,583,"Micronesia, Federated States of"
+"Marshall Islands, Republic of the",MH,MHL,584,"Marshall Islands, Republic of the"
+"Palau, Republic of",PW,PLW,585,"Palau, Republic of"
+"Papua New Guinea, Independent State of",PG,PNG,598,"Papua New Guinea, Independent State of"
+Pitcairn Islands,PN,PCN,612,Pitcairn Islands
+Tokelau,TK,TKL,772,Tokelau
+"Tonga, Kingdom of",TO,TON,776,"Tonga, Kingdom of"
+Tuvalu,TV,TUV,798,Tuvalu
+Wallis and Futuna,WF,WLF,876,Wallis and Futuna
+"Samoa, Independent State of",WS,WSM,882,"Samoa, Independent State of"
+"Argentina, Argentine Republic",AR,ARG,32,"Argentina, Argentine Republic"
+"Bolivia, Republic of",BO,BOL,68,"Bolivia, Republic of"
+"Brazil, Federative Republic of",BR,BRA,76,"Brazil, Federative Republic of"
+"Chile, Republic of",CL,CHL,152,"Chile, Republic of"
+"Colombia, Republic of",CO,COL,170,"Colombia, Republic of"
+"Ecuador, Republic of",EC,ECU,218,"Ecuador, Republic of"
+Falkland Islands (Malvinas),FK,FLK,238,Falkland Islands (Malvinas)
+French Guiana,GF,GUF,254,French Guiana
+"Guyana, Co-operative Republic of",GY,GUY,328,"Guyana, Co-operative Republic of"
+"Paraguay, Republic of",PY,PRY,600,"Paraguay, Republic of"
+"Peru, Republic of",PE,PER,604,"Peru, Republic of"
+"Suriname, Republic of",SR,SUR,740,"Suriname, Republic of"
+"Uruguay, Eastern Republic of",UY,URY,858,"Uruguay, Eastern Republic of"
+"Venezuela, Bolivarian Republic of",VE,VEN,862,"Venezuela, Bolivarian Republic of"

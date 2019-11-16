@@ -1,0 +1,235 @@
+REGION,a-2,a-3,#,COUNTRY
+United States of America,US,USA,840,United States of America
+European Union (28),AT,AUT,40,"Austria, Republic of"
+European Union (28),BE,BEL,56,"Belgium, Kingdom of"
+European Union (28),BG,BGR,100,"Bulgaria, Republic of"
+European Union (28),HR,HRV,191,"Croatia, Republic of"
+European Union (28),CY,CYP,196,"Cyprus, Republic of"
+European Union (28),CZ,CZE,203,Czech Republic
+European Union (28),DK,DNK,208,"Denmark, Kingdom of"
+European Union (28),EE,EST,233,"Estonia, Republic of"
+European Union (28),FI,FIN,246,"Finland, Republic of"
+European Union (28),FR,FRA,250,"France, French Republic"
+European Union (28),DE,DEU,276,"Germany, Federal Republic of"
+European Union (28),GR,GRC,300,"Greece, Hellenic Republic"
+European Union (28),HU,HUN,348,"Hungary, Republic of"
+European Union (28),IE,IRL,372,Ireland
+European Union (28),IT,ITA,380,"Italy, Italian Republic"
+European Union (28),LV,LVA,428,"Latvia, Republic of"
+European Union (28),LT,LTU,440,"Lithuania, Republic of"
+European Union (28),LU,LUX,442,"Luxembourg, Grand Duchy of"
+European Union (28),MT,MLT,470,"Malta, Republic of"
+European Union (28),NL,NLD,528,"Netherlands, Kingdom of the"
+European Union (28),PL,POL,616,"Poland, Republic of"
+European Union (28),PT,PRT,620,"Portugal, Portuguese Republic"
+European Union (28),RO,ROU,642,Romania
+European Union (28),SK,SVK,703,Slovakia (Slovak Republic)
+European Union (28),SI,SVN,705,"Slovenia, Republic of"
+European Union (28),ES,ESP,724,"Spain, Kingdom of"
+European Union (28),SE,SWE,752,"Sweden, Kingdom of"
+European Union (28),GB,GBR,826,United Kingdom of Great Britain & Northern Ireland
+China,CN,CHN,156,"China, People's Republic of"
+China,HK,HKG,344,"Hong Kong, Special Administrative Region of China"
+India ,IN,IND,356,"India, Republic of"
+Brazil,BR,BRA,76,"Brazil, Federative Republic of"
+Russia,RU,RUS,643,Russian Federation
+Central and South America countries,AG,ATG,28,Antigua and Barbuda
+Central and South America countries,BS,BHS,44,"Bahamas, Commonwealth of the"
+Central and South America countries,BB,BRB,52,Barbados
+Central and South America countries,BM,BMU,60,Bermuda
+Central and South America countries,BZ,BLZ,84,Belize
+Central and South America countries,VG,VGB,92,British Virgin Islands
+Central and South America countries,KY,CYM,136,Cayman Islands
+Central and South America countries,CR,CRI,188,"Costa Rica, Republic of"
+Central and South America countries,CU,CUB,192,"Cuba, Republic of"
+Central and South America countries,DM,DMA,212,"Dominica, Commonwealth of"
+Central and South America countries,DO,DOM,214,Dominican Republic
+Central and South America countries,SV,SLV,222,"El Salvador, Republic of"
+Central and South America countries,GL,GRL,304,Greenland
+Central and South America countries,GD,GRD,308,Grenada
+Central and South America countries,GP,GLP,312,Guadeloupe
+Central and South America countries,GT,GTM,320,"Guatemala, Republic of"
+Central and South America countries,HT,HTI,332,"Haiti, Republic of"
+Central and South America countries,HN,HND,340,"Honduras, Republic of"
+Central and South America countries,JM,JAM,388,Jamaica
+Central and South America countries,MQ,MTQ,474,Martinique
+Central and South America countries,MX,MEX,484,"Mexico, United Mexican States"
+Central and South America countries,MS,MSR,500,Montserrat
+Central and South America countries,AN,ANT,530,Netherlands Antilles
+Central and South America countries,CW,CUW,531,Curaçao
+Central and South America countries,AW,ABW,533,Aruba
+Central and South America countries,SX,SXM,534,Sint Maarten (Netherlands)
+Central and South America countries,BQ,BES,535,"Bonaire, Sint Eustatius and Saba"
+Central and South America countries,NI,NIC,558,"Nicaragua, Republic of"
+Central and South America countries,UM,UMI,581,United States Minor Outlying Islands
+Central and South America countries,PA,PAN,591,"Panama, Republic of"
+Central and South America countries,PR,PRI,630,"Puerto Rico, Commonwealth of"
+Central and South America countries,BL,BLM,652,Saint Barthelemy
+Central and South America countries,KN,KNA,659,"Saint Kitts and Nevis, Federation of"
+Central and South America countries,AI,AIA,660,Anguilla
+Central and South America countries,LC,LCA,662,Saint Lucia
+Central and South America countries,MF,MAF,663,Saint Martin
+Central and South America countries,PM,SPM,666,Saint Pierre and Miquelon
+Central and South America countries,VC,VCT,670,Saint Vincent and the Grenadines
+Central and South America countries,TT,TTO,780,"Trinidad and Tobago, Republic of"
+Central and South America countries,TC,TCA,796,Turks and Caicos Islands
+Central and South America countries,VI,VIR,850,United States Virgin Islands
+Africa,DZ,DZA,12,"Algeria, People's Democratic Republic of"
+Africa,AO,AGO,24,"Angola, Republic of"
+Africa,BW,BWA,72,"Botswana, Republic of"
+Africa,BI,BDI,108,"Burundi, Republic of"
+Africa,CM,CMR,120,"Cameroon, Republic of"
+Africa,CV,CPV,132,"Cape Verde, Republic of"
+Africa,CF,CAF,140,Central African Republic
+Africa,TD,TCD,148,"Chad, Republic of"
+Africa,KM,COM,174,"Comoros, Union of the"
+Africa,YT,MYT,175,Mayotte
+Africa,CG,COG,178,"Congo, Republic of the"
+Africa,CD,COD,180,"Congo, Democratic Republic of the"
+Africa,BJ,BEN,204,"Benin, Republic of"
+Africa,GQ,GNQ,226,"Equatorial Guinea, Republic of"
+Africa,ET,ETH,231,"Ethiopia, Federal Democratic Republic of"
+Africa,ER,ERI,232,"Eritrea, State of"
+Africa,DJ,DJI,262,"Djibouti, Republic of"
+Africa,GA,GAB,266,"Gabon, Gabonese Republic"
+Africa,GM,GMB,270,"Gambia, Republic of the"
+Africa,GH,GHA,288,"Ghana, Republic of"
+Africa,GN,GIN,324,"Guinea, Republic of"
+Africa,CI,CIV,384,"Côte d'Ivoire, Republic of"
+Africa,KE,KEN,404,"Kenya, Republic of"
+Africa,LS,LSO,426,"Lesotho, Kingdom of"
+Africa,LR,LBR,430,"Liberia, Republic of"
+Africa,LY,LBY,434,Libyan Arab Jamahiriya
+Africa,MG,MDG,450,"Madagascar, Republic of"
+Africa,MW,MWI,454,"Malawi, Republic of"
+Africa,ML,MLI,466,"Mali, Republic of"
+Africa,MR,MRT,478,"Mauritania, Islamic Republic of"
+Africa,MU,MUS,480,"Mauritius, Republic of"
+Africa,MA,MAR,504,"Morocco, Kingdom of"
+Africa,MZ,MOZ,508,"Mozambique, Republic of"
+Africa,NA,NAM,516,"Namibia, Republic of"
+Africa,NE,NER,562,"Niger, Republic of"
+Africa,NG,NGA,566,"Nigeria, Federal Republic of"
+Africa,GW,GNB,624,"Guinea-Bissau, Republic of"
+Africa,RE,REU,638,Reunion
+Africa,RW,RWA,646,"Rwanda, Republic of"
+Africa,SH,SHN,654,Saint Helena
+Africa,ST,STP,678,"São Tomé and Príncipe, Democratic Republic of"
+Africa,SN,SEN,686,"Senegal, Republic of"
+Africa,SC,SYC,690,"Seychelles, Republic of"
+Africa,SL,SLE,694,"Sierra Leone, Republic of"
+Africa,SO,SOM,706,"Somalia, Somali Republic"
+Africa,ZA,ZAF,710,"South Africa, Republic of"
+Africa,ZW,ZWE,716,"Zimbabwe, Republic of"
+Africa,SS,SSD,728,South Sudan
+Africa,SD,SDN,729,"Sudan, Republic of"
+Africa,EH,ESH,732,Western Sahara
+Africa,SZ,SWZ,748,"Swaziland, Kingdom of"
+Africa,TG,TGO,768,"Togo, Togolese Republic"
+Africa,TN,TUN,788,"Tunisia, Tunisian Republic"
+Africa,UG,UGA,800,"Uganda, Republic of"
+Africa,EG,EGY,818,"Egypt, Arab Republic of"
+Africa,TZ,TZA,834,"Tanzania, United Republic of"
+Africa,BF,BFA,854,Burkina Faso
+Africa,ZM,ZMB,894,"Zambia, Republic of"
+Other Asian countries,AF,AFG,4,"Afghanistan, Islamic Republic of"
+Other Asian countries,BD,BGD,50,"Bangladesh, People's Republic of"
+Other Asian countries,BT,BTN,64,"Bhutan, Kingdom of"
+Other Asian countries,IO,IOT,86,British Indian Ocean Territory (Chagos Archipelago)
+Other Asian countries,BN,BRN,96,Brunei Darussalam
+Other Asian countries,MM,MMR,104,"Myanmar, Union of"
+Other Asian countries,KH,KHM,116,"Cambodia, Kingdom of"
+Other Asian countries,LK,LKA,144,"Sri Lanka, Democratic Socialist Republic of"
+Other Asian countries,TW,TWN,158,Taiwan
+Other Asian countries,CX,CXR,162,Christmas Island
+Other Asian countries,CC,CCK,166,Cocos (Keeling) Islands
+Other Asian countries,ID,IDN,360,"Indonesia, Republic of"
+Other Asian countries,JP,JPN,392,Japan
+Other Asian countries,KP,PRK,408,"Korea, Democratic People's Republic of"
+Other Asian countries,KR,KOR,410,"Korea, Republic of"
+Other Asian countries,LA,LAO,418,Lao People's Democratic Republic
+Other Asian countries,MO,MAC,446,"Macao, Special Administrative Region of China"
+Other Asian countries,MY,MYS,458,Malaysia
+Other Asian countries,MV,MDV,462,"Maldives, Republic of"
+Other Asian countries,MN,MNG,496,Mongolia
+Other Asian countries,NP,NPL,524,"Nepal, State of"
+Other Asian countries,PK,PAK,586,"Pakistan, Islamic Republic of"
+Other Asian countries,PH,PHL,608,"Philippines, Republic of the"
+Other Asian countries,TL,TLS,626,"Timor-Leste, Democratic Republic of"
+Other Asian countries,SG,SGP,702,"Singapore, Republic of"
+Other Asian countries,VN,VNM,704,"Vietnam, Socialist Republic of"
+Other Asian countries,TH,THA,764,"Thailand, Kingdom of"
+Other Asian countries,TM,TKM,795,Turkmenistan
+Other Asian countries,UZ,UZB,860,"Uzbekistan, Republic of"
+Middle East,BH,BHR,48,"Bahrain, Kingdom of"
+Middle East,IR,IRN,364,"Iran, Islamic Republic of"
+Middle East,IQ,IRQ,368,"Iraq, Republic of"
+Middle East,JO,JOR,400,"Jordan, Hashemite Kingdom of"
+Middle East,KW,KWT,414,"Kuwait, State of"
+Middle East,LB,LBN,422,"Lebanon, Lebanese Republic"
+Middle East,OM,OMN,512,"Oman, Sultanate of"
+Middle East,PS,PSE,275,"Palestine, state of"
+Middle East,QA,QAT,634,"Qatar, State of"
+Middle East,SA,SAU,682,"Saudi Arabia, Kingdom of"
+Middle East,SY,SYR,760,Syrian Arab Republic
+Middle East,AE,ARE,784,United Arab Emirates
+Middle East,YE,YEM,887,Yemen
+Middle East,TR,TUR,792,"Turkey, Republic of"
+Rest of the World,AS,ASM,16,American Samoa
+Rest of the World,AU,AUS,36,"Australia, Commonwealth of"
+Rest of the World,SB,SLB,90,Solomon Islands
+Rest of the World,CK,COK,184,Cook Islands
+Rest of the World,FJ,FJI,242,"Fiji, Republic of the Fiji Islands"
+Rest of the World,PF,PYF,258,French Polynesia
+Rest of the World,KI,KIR,296,"Kiribati, Republic of"
+Rest of the World,GU,GUM,316,Guam
+Rest of the World,NR,NRU,520,"Nauru, Republic of"
+Rest of the World,NC,NCL,540,New Caledonia
+Rest of the World,VU,VUT,548,"Vanuatu, Republic of"
+Rest of the World,NZ,NZL,554,New Zealand
+Rest of the World,NU,NIU,570,Niue
+Rest of the World,NF,NFK,574,Norfolk Island
+Rest of the World,MP,MNP,580,"Northern Mariana Islands, Commonwealth of the"
+Rest of the World,UM,UMI,581,United States Minor Outlying Islands
+Rest of the World,FM,FSM,583,"Micronesia, Federated States of"
+Rest of the World,MH,MHL,584,"Marshall Islands, Republic of the"
+Rest of the World,PW,PLW,585,"Palau, Republic of"
+Rest of the World,PG,PNG,598,"Papua New Guinea, Independent State of"
+Rest of the World,PN,PCN,612,Pitcairn Islands
+Rest of the World,TK,TKL,772,Tokelau
+Rest of the World,TO,TON,776,"Tonga, Kingdom of"
+Rest of the World,TV,TUV,798,Tuvalu
+Rest of the World,WF,WLF,876,Wallis and Futuna
+Rest of the World,WS,WSM,882,"Samoa, Independent State of"
+Rest of the World,AZ,AZE,31,"Azerbaijan, Republic of"
+Rest of the World,AM,ARM,51,"Armenia, Republic of"
+Rest of the World,GE,GEO,268,Georgia
+Rest of the World,IL,ISR,376,"Israel, State of"
+Rest of the World,KZ,KAZ,398,"Kazakhstan, Republic of"
+Rest of the World,KG,KGZ,417,Kyrgyz Republic
+Rest of the World,TJ,TJK,762,"Tajikistan, Republic of"
+Rest of the World,CA,CAN,124,Canada
+Rest of the World,AL,ALB,8,"Albania, Republic of"
+Rest of the World,AD,AND,20,"Andorra, Principality of"
+Rest of the World,AZ,AZE,31,"Azerbaijan, Republic of"
+Rest of the World,FO,FRO,234,Faroe Islands
+Rest of the World,AM,ARM,51,"Armenia, Republic of"
+Rest of the World,AX,ALA,248,Åland Islands
+Rest of the World,BA,BIH,70,Bosnia and Herzegovina
+Rest of the World,GE,GEO,268,Georgia
+Rest of the World,BY,BLR,112,"Belarus, Republic of"
+Rest of the World,VA,VAT,336,Holy See (Vatican City State)
+Rest of the World,IS,ISL,352,"Iceland, Republic of"
+Rest of the World,LI,LIE,438,"Liechtenstein, Principality of"
+Rest of the World,KZ,KAZ,398,"Kazakhstan, Republic of"
+Rest of the World,MC,MCO,492,"Monaco, Principality of"
+Rest of the World,MD,MDA,498,"Moldova, Republic of"
+Rest of the World,ME,MNE,499,"Montenegro, Republic of"
+Rest of the World,NO,NOR,578,"Norway, Kingdom of"
+Rest of the World,PL,POL,616,"Iceland, Republic of"
+Rest of the World,SM,SMR,674,"San Marino, Republic of"
+Rest of the World,RS,SRB,688,"Serbia, Republic of"
+Rest of the World,SJ,SJM,744,Svalbard & Jan Mayen Islands
+Rest of the World,CH,CHE,756,"Switzerland, Swiss Confederation"
+Rest of the World,UA,UKR,804,Ukraine
+Rest of the World,MK,MKD,807,"Macedonia, The Former Yugoslav Republic of"

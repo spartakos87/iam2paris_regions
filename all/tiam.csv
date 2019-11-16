@@ -1,0 +1,238 @@
+REGION,A-2,A-3,#,Country Name
+Africa,DZ,DZA,12,"Algeria, People's Democratic Republic of"
+Africa,AO,AGO,24,"Angola, Republic of"
+Africa,BW,BWA,72,"Botswana, Republic of"
+Africa,BI,BDI,108,"Burundi, Republic of"
+Africa,CM,CMR,120,"Cameroon, Republic of"
+Africa,CV,CPV,132,"Cape Verde, Republic of"
+Africa,CF,CAF,140,Central African Republic
+Africa,TD,TCD,148,"Chad, Republic of"
+Africa,KM,COM,174,"Comoros, Union of the"
+Africa,YT,MYT,175,Mayotte
+Africa,CG,COG,178,"Congo, Republic of the"
+Africa,CD,COD,180,"Congo, Democratic Republic of the"
+Africa,BJ,BEN,204,"Benin, Republic of"
+Africa,GQ,GNQ,226,"Equatorial Guinea, Republic of"
+Africa,ET,ETH,231,"Ethiopia, Federal Democratic Republic of"
+Africa,ER,ERI,232,"Eritrea, State of"
+Africa,DJ,DJI,262,"Djibouti, Republic of"
+Africa,GA,GAB,266,"Gabon, Gabonese Republic"
+Africa,GM,GMB,270,"Gambia, Republic of the"
+Africa,GH,GHA,288,"Ghana, Republic of"
+Africa,GN,GIN,324,"Guinea, Republic of"
+Africa,CI,CIV,384,"Côte d'Ivoire, Republic of"
+Africa,KE,KEN,404,"Kenya, Republic of"
+Africa,LS,LSO,426,"Lesotho, Kingdom of"
+Africa,LR,LBR,430,"Liberia, Republic of"
+Africa,LY,LBY,434,Libyan Arab Jamahiriya
+Africa,MG,MDG,450,"Madagascar, Republic of"
+Africa,MW,MWI,454,"Malawi, Republic of"
+Africa,ML,MLI,466,"Mali, Republic of"
+Africa,MR,MRT,478,"Mauritania, Islamic Republic of"
+Africa,MU,MUS,480,"Mauritius, Republic of"
+Africa,MA,MAR,504,"Morocco, Kingdom of"
+Africa,MZ,MOZ,508,"Mozambique, Republic of"
+Africa,NA,NAM,516,"Namibia, Republic of"
+Africa,NE,NER,562,"Niger, Republic of"
+Africa,NG,NGA,566,"Nigeria, Federal Republic of"
+Africa,GW,GNB,624,"Guinea-Bissau, Republic of"
+Africa,RE,REU,638,Reunion
+Africa,RW,RWA,646,"Rwanda, Republic of"
+Africa,SH,SHN,654,Saint Helena
+Africa,ST,STP,678,"São Tomé and Príncipe, Democratic Republic of"
+Africa,SN,SEN,686,"Senegal, Republic of"
+Africa,SC,SYC,690,"Seychelles, Republic of"
+Africa,SL,SLE,694,"Sierra Leone, Republic of"
+Africa,SO,SOM,706,"Somalia, Somali Republic"
+Africa,ZA,ZAF,710,"South Africa, Republic of"
+Africa,ZW,ZWE,716,"Zimbabwe, Republic of"
+Africa,SS,SSD,728,South Sudan
+Africa,SD,SDN,729,"Sudan, Republic of"
+Africa,EH,ESH,732,Western Sahara
+Africa,SZ,SWZ,748,"Swaziland, Kingdom of"
+Africa,TG,TGO,768,"Togo, Togolese Republic"
+Africa,TN,TUN,788,"Tunisia, Tunisian Republic"
+Africa,UG,UGA,800,"Uganda, Republic of"
+Africa,EG,EGY,818,"Egypt, Arab Republic of"
+Africa,TZ,TZA,834,"Tanzania, United Republic of"
+Africa,BF,BFA,854,Burkina Faso
+Africa,ZM,ZMB,894,"Zambia, Republic of"
+"Australia, New Zealand, Oceania",AS,ASM,16,American Samoa
+"Australia, New Zealand, Oceania",AU,AUS,36,"Australia, Commonwealth of"
+"Australia, New Zealand, Oceania",SB,SLB,90,Solomon Islands
+"Australia, New Zealand, Oceania",CK,COK,184,Cook Islands
+"Australia, New Zealand, Oceania",FJ,FJI,242,"Fiji, Republic of the Fiji Islands"
+"Australia, New Zealand, Oceania",PF,PYF,258,French Polynesia
+"Australia, New Zealand, Oceania",KI,KIR,296,"Kiribati, Republic of"
+"Australia, New Zealand, Oceania",GU,GUM,316,Guam
+"Australia, New Zealand, Oceania",NR,NRU,520,"Nauru, Republic of"
+"Australia, New Zealand, Oceania",NC,NCL,540,New Caledonia
+"Australia, New Zealand, Oceania",VU,VUT,548,"Vanuatu, Republic of"
+"Australia, New Zealand, Oceania",NZ,NZL,554,New Zealand
+"Australia, New Zealand, Oceania",NU,NIU,570,Niue
+"Australia, New Zealand, Oceania",NF,NFK,574,Norfolk Island
+"Australia, New Zealand, Oceania",MP,MNP,580,"Northern Mariana Islands, Commonwealth of the"
+"Australia, New Zealand, Oceania",UM,UMI,581,United States Minor Outlying Islands
+"Australia, New Zealand, Oceania",FM,FSM,583,"Micronesia, Federated States of"
+"Australia, New Zealand, Oceania",MH,MHL,584,"Marshall Islands, Republic of the"
+"Australia, New Zealand, Oceania",PW,PLW,585,"Palau, Republic of"
+"Australia, New Zealand, Oceania",PG,PNG,598,"Papua New Guinea, Independent State of"
+"Australia, New Zealand, Oceania",PN,PCN,612,Pitcairn Islands
+"Australia, New Zealand, Oceania",TK,TKL,772,Tokelau
+"Australia, New Zealand, Oceania",TO,TON,776,"Tonga, Kingdom of"
+"Australia, New Zealand, Oceania",TV,TUV,798,Tuvalu
+"Australia, New Zealand, Oceania",WF,WLF,876,Wallis and Futuna
+"Australia, New Zealand, Oceania",WS,WSM,882,"Samoa, Independent State of"
+"Australia, New Zealand, Oceania",XX,null,null,Disputed Territory
+Canada,CA,CAN,124,Canada
+China,CN,CHN,156,"China, People's Republic of"
+Central & South America,AG,ATG,28,Antigua and Barbuda
+Central & South America,BS,BHS,44,"Bahamas, Commonwealth of the"
+Central & South America,BB,BRB,52,Barbados
+Central & South America,BM,BMU,60,Bermuda
+Central & South America,BZ,BLZ,84,Belize
+Central & South America,VG,VGB,92,British Virgin Islands
+Central & South America,KY,CYM,136,Cayman Islands
+Central & South America,CR,CRI,188,"Costa Rica, Republic of"
+Central & South America,CU,CUB,192,"Cuba, Republic of"
+Central & South America,DM,DMA,212,"Dominica, Commonwealth of"
+Central & South America,DO,DOM,214,Dominican Republic
+Central & South America,SV,SLV,222,"El Salvador, Republic of"
+Central & South America,GL,GRL,304,Greenland
+Central & South America,GD,GRD,308,Grenada
+Central & South America,GP,GLP,312,Guadeloupe
+Central & South America,GT,GTM,320,"Guatemala, Republic of"
+Central & South America,HT,HTI,332,"Haiti, Republic of"
+Central & South America,HN,HND,340,"Honduras, Republic of"
+Central & South America,JM,JAM,388,Jamaica
+Central & South America,MQ,MTQ,474,Martinique
+Central & South America,MS,MSR,500,Montserrat
+Central & South America,AN,ANT,530,Netherlands Antilles
+Central & South America,CW,CUW,531,Curaçao
+Central & South America,AW,ABW,533,Aruba
+Central & South America,SX,SXM,534,Sint Maarten (Netherlands)
+Central & South America,BQ,BES,535,"Bonaire, Sint Eustatius and Saba"
+Central & South America,NI,NIC,558,"Nicaragua, Republic of"
+Central & South America,UM,UMI,581,United States Minor Outlying Islands
+Central & South America,PA,PAN,591,"Panama, Republic of"
+Central & South America,PR,PRI,630,"Puerto Rico, Commonwealth of"
+Central & South America,BL,BLM,652,Saint Barthelemy
+Central & South America,KN,KNA,659,"Saint Kitts and Nevis, Federation of"
+Central & South America,AI,AIA,660,Anguilla
+Central & South America,LC,LCA,662,Saint Lucia
+Central & South America,MF,MAF,663,Saint Martin
+Central & South America,PM,SPM,666,Saint Pierre and Miquelon
+Central & South America,VC,VCT,670,Saint Vincent and the Grenadines
+Central & South America,TT,TTO,780,"Trinidad and Tobago, Republic of"
+Central & South America,TC,TCA,796,Turks and Caicos Islands
+Central & South America,VI,VIR,850,United States Virgin Islands
+Central & South America,AR,ARG,32,"Argentina, Argentine Republic"
+Central & South America,BO,BOL,68,"Bolivia, Republic of"
+Central & South America,BR,BRA,76,"Brazil, Federative Republic of"
+Central & South America,CL,CHL,152,"Chile, Republic of"
+Central & South America,CO,COL,170,"Colombia, Republic of"
+Central & South America,EC,ECU,218,"Ecuador, Republic of"
+Central & South America,FK,FLK,238,Falkland Islands (Malvinas)
+Central & South America,GF,GUF,254,French Guiana
+Central & South America,GY,GUY,328,"Guyana, Co-operative Republic of"
+Central & South America,PY,PRY,600,"Paraguay, Republic of"
+Central & South America,PE,PER,604,"Peru, Republic of"
+Central & South America,SR,SUR,740,"Suriname, Republic of"
+Central & South America,UY,URY,858,"Uruguay, Eastern Republic of"
+Central & South America,VE,VEN,862,"Venezuela, Bolivarian Republic of"
+Eastern Europe,AL,ALB,8,"Albania, Republic of"
+Eastern Europe,BA,BIH,70,Bosnia and Herzegovina
+Eastern Europe,BG,BGR,100,"Bulgaria, Republic of"
+Eastern Europe,HR,HRV,191,"Croatia, Republic of"
+Eastern Europe,CZ,CZE,203,Czech Republic
+Eastern Europe,HU,HUN,348,"Hungary, Republic of"
+Eastern Europe,ME,MNE,499,"Montenegro, Republic of"
+Eastern Europe,PL,POL,616,"Poland, Republic of"
+Eastern Europe,RO,ROU,642,Romania
+Eastern Europe,RS,SRB,688,"Serbia, Republic of"
+Eastern Europe,SK,SVK,703,Slovakia (Slovak Republic)
+Eastern Europe,SI,SVN,705,"Slovenia, Republic of"
+Eastern Europe,MK,MKD,807,"Macedonia, The Former Yugoslav Republic of"
+India,IN,IND,356,"India, Republic of"
+Japan,JP,JPN,392,Japan
+Middle East,BH,BHR,48,"Bahrain, Kingdom of"
+Middle East,IR,IRN,364,"Iran, Islamic Republic of"
+Middle East,IQ,IRQ,368,"Iraq, Republic of"
+Middle East,IL,ISR,376,"Israel, State of"
+Middle East,JO,JOR,400,"Jordan, Hashemite Kingdom of"
+Middle East,KW,KWT,414,"Kuwait, State of"
+Middle East,LB,LBN,422,"Lebanon, Lebanese Republic"
+Middle East,OM,OMN,512,"Oman, Sultanate of"
+Middle East,QA,QAT,634,"Qatar, State of"
+Middle East,SA,SAU,682,"Saudi Arabia, Kingdom of"
+Middle East,SY,SYR,760,Syrian Arab Republic
+Middle East,AE,ARE,784,United Arab Emirates
+Middle East,YE,YEM,887,Yemen
+Middle East,CY,CYP,196,"Cyprus, Republic of"
+Middle East,TR,TUR,792,"Turkey, Republic of"
+Mexico,MX,MEX,484,"Mexico, United Mexican States"
+Russia and Central Asia,AZ,AZE,31,"Azerbaijan, Republic of"
+Russia and Central Asia,AM,ARM,51,"Armenia, Republic of"
+Russia and Central Asia,BY,BLR,112,"Belarus, Republic of"
+Russia and Central Asia,EE,EST,233,"Estonia, Republic of"
+Russia and Central Asia,GE,GEO,268,Georgia
+Russia and Central Asia,KZ,KAZ,398,"Kazakhstan, Republic of"
+Russia and Central Asia,LV,LVA,428,"Latvia, Republic of"
+Russia and Central Asia,LT,LTU,440,"Lithuania, Republic of"
+Russia and Central Asia,MD,MDA,498,"Moldova, Republic of"
+Russia and Central Asia,RU,RUS,643,Russian Federation
+Russia and Central Asia,UA,UKR,804,Ukraine
+Russia and Central Asia,KG,KGZ,417,Kyrgyz Republic
+Russia and Central Asia,TJ,TJK,762,"Tajikistan, Republic of"
+Russia and Central Asia,TM,TKM,795,Turkmenistan
+Russia and Central Asia,UZ,UZB,860,"Uzbekistan, Republic of"
+Republic of Korea,KR,KOR,410,"Korea, Republic of"
+(Other) South and Southeast Asia,AF,AFG,4,"Afghanistan, Islamic Republic of"
+(Other) South and Southeast Asia,BD,BGD,50,"Bangladesh, People's Republic of"
+(Other) South and Southeast Asia,BT,BTN,64,"Bhutan, Kingdom of"
+(Other) South and Southeast Asia,IO,IOT,86,British Indian Ocean Territory (Chagos Archipelago)
+(Other) South and Southeast Asia,BN,BRN,96,Brunei Darussalam
+(Other) South and Southeast Asia,MM,MMR,104,"Myanmar, Union of"
+(Other) South and Southeast Asia,KH,KHM,116,"Cambodia, Kingdom of"
+(Other) South and Southeast Asia,LK,LKA,144,"Sri Lanka, Democratic Socialist Republic of"
+(Other) South and Southeast Asia,TW,TWN,158,Taiwan
+(Other) South and Southeast Asia,CX,CXR,162,Christmas Island
+(Other) South and Southeast Asia,CC,CCK,166,Cocos (Keeling) Islands
+(Other) South and Southeast Asia,HK,HKG,344,"Hong Kong, Special Administrative Region of China"
+(Other) South and Southeast Asia,ID,IDN,360,"Indonesia, Republic of"
+(Other) South and Southeast Asia,KP,PRK,408,"Korea, Democratic People's Republic of"
+(Other) South and Southeast Asia,LA,LAO,418,Lao People's Democratic Republic
+(Other) South and Southeast Asia,MO,MAC,446,"Macao, Special Administrative Region of China"
+(Other) South and Southeast Asia,MY,MYS,458,Malaysia
+(Other) South and Southeast Asia,MV,MDV,462,"Maldives, Republic of"
+(Other) South and Southeast Asia,MN,MNG,496,Mongolia
+(Other) South and Southeast Asia,NP,NPL,524,"Nepal, State of"
+(Other) South and Southeast Asia,PK,PAK,586,"Pakistan, Islamic Republic of"
+(Other) South and Southeast Asia,PS,PSE,275,"Palestine, state of"
+(Other) South and Southeast Asia,PH,PHL,608,"Philippines, Republic of the"
+(Other) South and Southeast Asia,TL,TLS,626,"Timor-Leste, Democratic Republic of"
+(Other) South and Southeast Asia,SG,SGP,702,"Singapore, Republic of"
+(Other) South and Southeast Asia,VN,VNM,704,"Vietnam, Socialist Republic of"
+(Other) South and Southeast Asia,TH,THA,764,"Thailand, Kingdom of"
+(Other) South and Southeast Asia,YE,YEM,887,Yemen
+US,US,USA,840,United States of America
+Western Europe,AT,AUT,40,"Austria, Republic of"
+Western Europe,BE,BEL,56,"Belgium, Kingdom of"
+Western Europe,CY,CYP,196,"Cyprus, Republic of"
+Western Europe,DK,DNK,208,"Denmark, Kingdom of"
+Western Europe,FI,FIN,246,"Finland, Republic of"
+Western Europe,FR,FRA,250,"France, French Republic"
+Western Europe,DE,DEU,276,"Germany, Federal Republic of"
+Western Europe,GR,GRC,300,"Greece, Hellenic Republic"
+Western Europe,IS,ISL,352,"Iceland, Republic of"
+Western Europe,IE,IRL,372,Ireland
+Western Europe,IT,ITA,380,"Italy, Italian Republic"
+Western Europe,LU,LUX,442,"Luxembourg, Grand Duchy of"
+Western Europe,MT,MLT,470,"Malta, Republic of"
+Western Europe,NL,NLD,528,"Netherlands, Kingdom of the"
+Western Europe,NO,NOR,578,"Norway, Kingdom of"
+Western Europe,PT,PRT,620,"Portugal, Portuguese Republic"
+Western Europe,ES,ESP,724,"Spain, Kingdom of"
+Western Europe,SE,SWE,752,"Sweden, Kingdom of"
+Western Europe,CH,CHE,756,"Switzerland, Swiss Confederation"
+Western Europe,GB,GBR,826,United Kingdom of Great Britain & Northern Ireland
