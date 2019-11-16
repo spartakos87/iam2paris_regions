@@ -15,10 +15,12 @@ def create_json(f):
 	regions_dict = {}
 	for region in regions:
 		countries = []
+		countries_names =[]
 		for i in data:
 			if i[0] == region:
-				countries.append({i[1]:i[-1]})
-		temp = [countries, ','.join(countries)]
+				countries.append({i[-1].split(',')[0]:i[1]})
+				countries_names.append(i[-1].split(',')[0])
+		temp = [countries, ','.join(countries_names)]
 		regions_dict.update({region:temp})
 	return regions_dict
 			
