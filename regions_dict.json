@@ -7316,114 +7316,303 @@
   ]
 },
   "JRC-EU-TIMES": {
-    "Region of  JRC-EU-TIMES": [
-      [
-        {
-          "Austria": "AT"
-        },
-        {
-          "Belgium": "BE"
-        },
-        {
-          "Bulgaria": "BG"
-        },
-        {
-          "Croatia": "HR"
-        },
-        {
-          "Cyprus": "CY"
-        },
-        {
-          "Czech Republic": "CZ"
-        },
-        {
-          "Denmark": "DK"
-        },
-        {
-          "Estonia": "EE"
-        },
-        {
-          "Finland": "FI"
-        },
-        {
-          "France": "FR"
-        },
-        {
-          "Germany": "DE"
-        },
-        {
-          "Greece": "GR"
-        },
-        {
-          "Hungary": "HU"
-        },
-        {
-          "Iceland": "IS"
-        },
-        {
-          "Ireland": "IE"
-        },
-        {
-          "Italy": "IT"
-        },
-        {
-          "Latvia": "LV"
-        },
-        {
-          "Lithuania": "LT"
-        },
-        {
-          "Luxembourg": "LU"
-        },
-        {
-          "Malta": "MT"
-        },
-        {
-          "Netherlands": "NL"
-        },
-        {
-          "Norway": "NO"
-        },
-        {
-          "Poland": "PL"
-        },
-        {
-          "Portugal": "PT"
-        },
-        {
-          "Romania": "RO"
-        },
-        {
-          "Slovakia": "SK"
-        },
-        {
-          "Slovenia": "SI"
-        },
-        {
-          "Spain": "ES"
-        },
-        {
-          "Sweden": "SE"
-        },
-        {
-          "Switzerland": "CH"
-        },
-        {
-          "United Kingdom": "GB"
-        },
-        {
-          "Turkey": "TR"
-        },
-        {
-          "Brazil": "BR"
-        },
-        {
-          "Taiwan": "TW"
-        }
-      ],
-      "Italy"
-    ]
-  },
+  "Ireland": [
+    [
+      {
+        "Ireland": "IE"
+      }
+    ],
+    "Ireland"
+  ],
+  "Czech Republic": [
+    [
+      {
+        "Czech Republic": "CZ"
+      }
+    ],
+    "Czech Republic"
+  ],
+  "Romania": [
+    [
+      {
+        "Romania": "RO"
+      }
+    ],
+    "Romania"
+  ],
+  "Norway": [
+    [
+      {
+        "Norway": "NO"
+      }
+    ],
+    "Norway"
+  ],
+  "Spain": [
+    [
+      {
+        "Spain": "ES"
+      }
+    ],
+    "Spain"
+  ],
+  "Switzerland": [
+    [
+      {
+        "Switzerland": "CH"
+      }
+    ],
+    "Switzerland"
+  ],
+  "Malta": [
+    [
+      {
+        "Malta": "MT"
+      }
+    ],
+    "Malta"
+  ],
+  "Serbia": [
+    [
+      {
+        "Serbia": "RS"
+      }
+    ],
+    "Serbia"
+  ],
+  "France": [
+    [
+      {
+        "France": "FR"
+      }
+    ],
+    "France"
+  ],
+  "Sweden": [
+    [
+      {
+        "Sweden": "SE"
+      }
+    ],
+    "Sweden"
+  ],
+  "Portugal": [
+    [
+      {
+        "Portugal": "PT"
+      }
+    ],
+    "Portugal"
+  ],
+  "Austria": [
+    [
+      {
+        "Austria": "AT"
+      }
+    ],
+    "Austria"
+  ],
+  "Hungary": [
+    [
+      {
+        "Hungary": "HU"
+      }
+    ],
+    "Hungary"
+  ],
+  "Estonia": [
+    [
+      {
+        "Estonia": "EE"
+      }
+    ],
+    "Estonia"
+  ],
+  "Italy": [
+    [
+      {
+        "Italy": "IT"
+      }
+    ],
+    "Italy"
+  ],
+  "Cyprus": [
+    [
+      {
+        "Cyprus": "CY"
+      }
+    ],
+    "Cyprus"
+  ],
+  "Luxembourg": [
+    [
+      {
+        "Luxembourg": "LU"
+      }
+    ],
+    "Luxembourg"
+  ],
+  "Slovenia": [
+    [
+      {
+        "Slovenia": "SI"
+      }
+    ],
+    "Slovenia"
+  ],
+  "Iceland": [
+    [
+      {
+        "Iceland": "IS"
+      }
+    ],
+    "Iceland"
+  ],
+  "Bulgaria": [
+    [
+      {
+        "Bulgaria": "BG"
+      }
+    ],
+    "Bulgaria"
+  ],
+  "Montenegro": [
+    [
+      {
+        "Montenegro": "ME"
+      }
+    ],
+    "Montenegro"
+  ],
+  "Belgium": [
+    [
+      {
+        "Belgium": "BE"
+      }
+    ],
+    "Belgium"
+  ],
+  "Lithuania": [
+    [
+      {
+        "Lithuania": "LT"
+      }
+    ],
+    "Lithuania"
+  ],
+  "Poland": [
+    [
+      {
+        "Poland": "PL"
+      }
+    ],
+    "Poland"
+  ],
+  "Greece": [
+    [
+      {
+        "Greece": "GR"
+      }
+    ],
+    "Greece"
+  ],
+  "Croatia": [
+    [
+      {
+        "Croatia": "HR"
+      }
+    ],
+    "Croatia"
+  ],
+  "Finland": [
+    [
+      {
+        "Finland": "FI"
+      }
+    ],
+    "Finland"
+  ],
+  "Germany": [
+    [
+      {
+        "Germany": "DE"
+      }
+    ],
+    "Germany"
+  ],
+  "Denmark": [
+    [
+      {
+        "Denmark": "DK"
+      }
+    ],
+    "Denmark"
+  ],
+  "Netherlands": [
+    [
+      {
+        "Netherlands": "NL"
+      }
+    ],
+    "Netherlands"
+  ],
+  "Albania": [
+    [
+      {
+        "Albania": "AL"
+      }
+    ],
+    "Albania"
+  ],
+  "Slovakia": [
+    [
+      {
+        "Slovakia (Slovak Republic)": "SK"
+      }
+    ],
+    "Slovakia (Slovak Republic)"
+  ],
+  "North Macedonia": [
+    [
+      {
+        "Macedonia": "MK"
+      }
+    ],
+    "Macedonia"
+  ],
+  "Bosnia": [
+    [
+      {
+        "Bosnia and Herzegovina": "BA"
+      }
+    ],
+    "Bosnia and Herzegovina"
+  ],
+  "Kosovo": [
+    [
+      {
+        "Kosovo": "0"
+      }
+    ],
+    "Kosovo"
+  ],
+  "United Kingdom": [
+    [
+      {
+        "United Kingdom of Great Britain & Northern Ireland": "GB"
+      }
+    ],
+    "United Kingdom of Great Britain & Northern Ireland"
+  ],
+  "Lavtia": [
+    [
+      {
+        "Latvia": "LV"
+      }
+    ],
+    "Latvia"
+  ]
+},
   "Gemini-E3":{
   "China": [
     [
