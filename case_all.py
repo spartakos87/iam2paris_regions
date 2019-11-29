@@ -21,6 +21,7 @@ def create_json(f):
 				countries.append({i[-1].split(',')[0]:i[1]})
 				countries_names.append(i[-1].split(',')[0])
 		temp = [countries, ','.join(countries_names)]
-		regions_dict.update({region:temp})
+		#regions_dict.update({region:temp})
+		regions_dict.update({region.split(',')[0]:temp})
 	return regions_dict
 			
