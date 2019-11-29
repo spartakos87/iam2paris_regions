@@ -10,7 +10,7 @@ def load_region_db():
     models = list(data.keys())
     for model in models:
         print(model)
-        m = ModelsInfo.objects.get(model_name=model)
+        m = ModelsInfo.objects.get(model_title=model)
         regions = list(data[model].keys())
         for region in regions:
             if ',' in region:
