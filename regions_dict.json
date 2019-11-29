@@ -526,7 +526,7 @@
         "Comoros": "KM"
       },
       {
-        "Congo": "CD"
+        "Democratic Republic of the Congo": "CD"
       },
       {
         "Congo": "CG"
@@ -881,9 +881,6 @@
       },
       {
         "French Guiana": "GF"
-      },
-      {
-        "Greenland": "GL"
       },
       {
         "Grenada": "GD"
@@ -2791,9 +2788,6 @@
         "El Salvador": "SV"
       },
       {
-        "Greenland": "GL"
-      },
-      {
         "Grenada": "GD"
       },
       {
@@ -3070,7 +3064,7 @@
         "Congo": "CG"
       },
       {
-        "Congo": "CD"
+        "Democratic Republic of the Congo": "CD"
       },
       {
         "Benin": "BJ"
@@ -3540,111 +3534,271 @@
   ]
 },
   "FORECAST": {
-    "Region of FORECAST": [
-      [
-        {
-          "Austria": "AT"
-        },
-        {
-          "Belgium": "BE"
-        },
-        {
-          "Bulgaria": "BG"
-        },
-        {
-          "Croatia": "HR"
-        },
-        {
-          "Cyprus": "CY"
-        },
-        {
-          "Czech Republic": "CZ"
-        },
-        {
-          "Denmark": "DK"
-        },
-        {
-          "Estonia": "EE"
-        },
-        {
-          "Finland": "FI"
-        },
-        {
-          "France": "FR"
-        },
-        {
-          "Germany": "DE"
-        },
-        {
-          "Greece": "GR"
-        },
-        {
-          "Hungary": "HU"
-        },
-        {
-          "Ireland": "IE"
-        },
-        {
-          "Italy": "IT"
-        },
-        {
-          "Latvia": "LV"
-        },
-        {
-          "Lithuania": "LT"
-        },
-        {
-          "Luxembourg": "LU"
-        },
-        {
-          "Malta": "MT"
-        },
-        {
-          "Netherlands": "NL"
-        },
-        {
-          "Norway": "NO"
-        },
-        {
-          "Poland": "PL"
-        },
-        {
-          "Portugal": "PT"
-        },
-        {
-          "Romania": "RO"
-        },
-        {
-          "Slovakia": "SK"
-        },
-        {
-          "Slovenia": "SI"
-        },
-        {
-          "Spain": "ES"
-        },
-        {
-          "Sweden": "SE"
-        },
-        {
-          "Switzerland": "CH"
-        },
-        {
-          "United Kingdom": "GB"
-        },
-        {
-          "Turkey": "TR"
-        },
-        {
-          "Brazil": "BR"
-        },
-        {
-          "Taiwan": "TW"
-        }
-      ],
-      "Italy"
-    ]
-  },
+  "Austria": [
+    [
+      {
+        "Austria": "AT"
+      }
+    ],
+    "Austria"
+  ],
+  "Belgium": [
+    [
+      {
+        "Belgium": "BE"
+      }
+    ],
+    "Belgium"
+  ],
+  "Bulgaria": [
+    [
+      {
+        "Bulgaria": "BG"
+      }
+    ],
+    "Bulgaria"
+  ],
+  "Croatia": [
+    [
+      {
+        "Croatia": "HR"
+      }
+    ],
+    "Croatia"
+  ],
+  "Cyprus": [
+    [
+      {
+        "Cyprus": "CY"
+      }
+    ],
+    "Cyprus"
+  ],
+  "Czech Republic": [
+    [
+      {
+        "Czech Republic": "CZ"
+      }
+    ],
+    "Czech Republic"
+  ],
+  "Denmark": [
+    [
+      {
+        "Denmark": "DK"
+      }
+    ],
+    "Denmark"
+  ],
+  "Estonia": [
+    [
+      {
+        "Estonia": "EE"
+      }
+    ],
+    "Estonia"
+  ],
+  "Finland": [
+    [
+      {
+        "Finland": "FI"
+      }
+    ],
+    "Finland"
+  ],
+  "France": [
+    [
+      {
+        "France": "FR"
+      }
+    ],
+    "France"
+  ],
+  "Germany": [
+    [
+      {
+        "Germany": "DE"
+      }
+    ],
+    "Germany"
+  ],
+  "Greece": [
+    [
+      {
+        "Greece": "GR"
+      }
+    ],
+    "Greece"
+  ],
+  "Hungary": [
+    [
+      {
+        "Hungary": "HU"
+      }
+    ],
+    "Hungary"
+  ],
+  "Ireland": [
+    [
+      {
+        "Ireland": "IE"
+      }
+    ],
+    "Ireland"
+  ],
+  "Italy": [
+    [
+      {
+        "Italy": "IT"
+      }
+    ],
+    "Italy"
+  ],
+  "Latvia": [
+    [
+      {
+        "Latvia": "LV"
+      }
+    ],
+    "Latvia"
+  ],
+  "Lithuania": [
+    [
+      {
+        "Lithuania": "LT"
+      }
+    ],
+    "Lithuania"
+  ],
+  "Luxembourg": [
+    [
+      {
+        "Luxembourg": "LU"
+      }
+    ],
+    "Luxembourg"
+  ],
+  "Malta": [
+    [
+      {
+        "Malta": "MT"
+      }
+    ],
+    "Malta"
+  ],
+  "Netherlands": [
+    [
+      {
+        "Netherlands": "NL"
+      }
+    ],
+    "Netherlands"
+  ],
+  "Norway": [
+    [
+      {
+        "Norway": "NO"
+      }
+    ],
+    "Norway"
+  ],
+  "Poland": [
+    [
+      {
+        "Poland": "PL"
+      }
+    ],
+    "Poland"
+  ],
+  "Portugal": [
+    [
+      {
+        "Portugal": "PT"
+      }
+    ],
+    "Portugal"
+  ],
+  "Romania": [
+    [
+      {
+        "Romania": "RO"
+      }
+    ],
+    "Romania"
+  ],
+  "Slovakia": [
+    [
+      {
+        "Slovakia": "SK"
+      }
+    ],
+    "Slovakia"
+  ],
+  "Slovenia": [
+    [
+      {
+        "Slovenia": "SI"
+      }
+    ],
+    "Slovenia"
+  ],
+  "Spain": [
+    [
+      {
+        "Spain": "ES"
+      }
+    ],
+    "Spain"
+  ],
+  "Sweden": [
+    [
+      {
+        "Sweden": "SE"
+      }
+    ],
+    "Sweden"
+  ],
+  "Switzerland": [
+    [
+      {
+        "Switzerland": "CH"
+      }
+    ],
+    "Switzerland"
+  ],
+  "United Kingdom": [
+    [
+      {
+        "United Kingdom": "GB"
+      }
+    ],
+    "United Kingdom"
+  ],
+  "Turkey": [
+    [
+      {
+        "Turkey": "TR"
+      }
+    ],
+    "Turkey"
+  ],
+  "Brazil": [
+    [
+      {
+        "Brazil": "BR"
+      }
+    ],
+    "Brazil"
+  ],
+  "Taiwan": [
+    [
+      {
+        "Taiwan": "TW"
+      }
+    ],
+    "Taiwan"
+  ]
+},
   "CONTO": {
     "RUSSIA": [
       [
@@ -4467,7 +4621,7 @@
         "Comoros": "KM"
       },
       {
-        "Congo": "CD"
+        "Democratic Republic of the Congo": "CD"
       },
       {
         "Côte d'Ivoire": "CI"
@@ -4714,102 +4868,247 @@
   ]
 },
   "ALADIN": {
-    "Region of ALADIN": [
-      [
-        {
-          "Austria": "AT"
-        },
-        {
-          "Belgium": "BE"
-        },
-        {
-          "Bulgaria": "BG"
-        },
-        {
-          "Croatia": "HR"
-        },
-        {
-          "Cyprus": "CY"
-        },
-        {
-          "Czech Republic": "CZ"
-        },
-        {
-          "Denmark": "DK"
-        },
-        {
-          "Estonia": "EE"
-        },
-        {
-          "Finland": "FI"
-        },
-        {
-          "France": "FR"
-        },
-        {
-          "Germany": "DE"
-        },
-        {
-          "Greece": "GR"
-        },
-        {
-          "Hungary": "HU"
-        },
-        {
-          "Ireland": "IE"
-        },
-        {
-          "Italy": "IT"
-        },
-        {
-          "Latvia": "LV"
-        },
-        {
-          "Lithuania": "LT"
-        },
-        {
-          "Luxembourg": "LU"
-        },
-        {
-          "Malta": "MT"
-        },
-        {
-          "Netherlands": "NL"
-        },
-        {
-          "Norway": "NO"
-        },
-        {
-          "Poland": "PL"
-        },
-        {
-          "Portugal": "PT"
-        },
-        {
-          "Romania": "RO"
-        },
-        {
-          "Slovakia": "SK"
-        },
-        {
-          "Slovenia": "SI"
-        },
-        {
-          "Spain": "ES"
-        },
-        {
-          "Sweden": "SE"
-        },
-        {
-          "Switzerland": "CH"
-        },
-        {
-          "United Kingdom": "GB"
-        }
-      ],
-      "Italy"
-    ]
-  },
+  "Austria": [
+    [
+      {
+        "Austria": "AT"
+      }
+    ],
+    "Austria"
+  ],
+  "Belgium": [
+    [
+      {
+        "Belgium": "BE"
+      }
+    ],
+    "Belgium"
+  ],
+  "Bulgaria": [
+    [
+      {
+        "Bulgaria": "BG"
+      }
+    ],
+    "Bulgaria"
+  ],
+  "Croatia": [
+    [
+      {
+        "Croatia": "HR"
+      }
+    ],
+    "Croatia"
+  ],
+  "Cyprus": [
+    [
+      {
+        "Cyprus": "CY"
+      }
+    ],
+    "Cyprus"
+  ],
+  "Czech Republic": [
+    [
+      {
+        "Czech Republic": "CZ"
+      }
+    ],
+    "Czech Republic"
+  ],
+  "Denmark": [
+    [
+      {
+        "Denmark": "DK"
+      }
+    ],
+    "Denmark"
+  ],
+  "Estonia": [
+    [
+      {
+        "Estonia": "EE"
+      }
+    ],
+    "Estonia"
+  ],
+  "Finland": [
+    [
+      {
+        "Finland": "FI"
+      }
+    ],
+    "Finland"
+  ],
+  "France": [
+    [
+      {
+        "France": "FR"
+      }
+    ],
+    "France"
+  ],
+  "Germany": [
+    [
+      {
+        "Germany": "DE"
+      }
+    ],
+    "Germany"
+  ],
+  "Greece": [
+    [
+      {
+        "Greece": "GR"
+      }
+    ],
+    "Greece"
+  ],
+  "Hungary": [
+    [
+      {
+        "Hungary": "HU"
+      }
+    ],
+    "Hungary"
+  ],
+  "Ireland": [
+    [
+      {
+        "Ireland": "IE"
+      }
+    ],
+    "Ireland"
+  ],
+  "Italy": [
+    [
+      {
+        "Italy": "IT"
+      }
+    ],
+    "Italy"
+  ],
+  "Latvia": [
+    [
+      {
+        "Latvia": "LV"
+      }
+    ],
+    "Latvia"
+  ],
+  "Lithuania": [
+    [
+      {
+        "Lithuania": "LT"
+      }
+    ],
+    "Lithuania"
+  ],
+  "Luxembourg": [
+    [
+      {
+        "Luxembourg": "LU"
+      }
+    ],
+    "Luxembourg"
+  ],
+  "Malta": [
+    [
+      {
+        "Malta": "MT"
+      }
+    ],
+    "Malta"
+  ],
+  "Netherlands": [
+    [
+      {
+        "Netherlands": "NL"
+      }
+    ],
+    "Netherlands"
+  ],
+  "Norway": [
+    [
+      {
+        "Norway": "NO"
+      }
+    ],
+    "Norway"
+  ],
+  "Poland": [
+    [
+      {
+        "Poland": "PL"
+      }
+    ],
+    "Poland"
+  ],
+  "Portugal": [
+    [
+      {
+        "Portugal": "PT"
+      }
+    ],
+    "Portugal"
+  ],
+  "Romania": [
+    [
+      {
+        "Romania": "RO"
+      }
+    ],
+    "Romania"
+  ],
+  "Slovakia": [
+    [
+      {
+        "Slovakia": "SK"
+      }
+    ],
+    "Slovakia"
+  ],
+  "Slovenia": [
+    [
+      {
+        "Slovenia": "SI"
+      }
+    ],
+    "Slovenia"
+  ],
+  "Spain": [
+    [
+      {
+        "Spain": "ES"
+      }
+    ],
+    "Spain"
+  ],
+  "Sweden": [
+    [
+      {
+        "Sweden": "SE"
+      }
+    ],
+    "Sweden"
+  ],
+  "Switzerland": [
+    [
+      {
+        "Switzerland": "CH"
+      }
+    ],
+    "Switzerland"
+  ],
+  "United Kingdom": [
+    [
+      {
+        "United Kingdom": "GB"
+      }
+    ],
+    "United Kingdom"
+  ]
+},
   "LEAP": {
   "United States of America": [
     [
@@ -6263,10 +6562,18 @@
     ],
     "Haiti"
   ],
-  "Congo": [
+  "Democratic Republic of the Congo": [
     [
       {
-        "Congo": "CD"
+        "Democratic Republic of the Congo": "CD"
+      }
+    ],
+    "Democratic Republic of the Congo"
+  ],
+    "Congo": [
+    [
+      {
+        "Congo": "CG"
       }
     ],
     "Congo"
@@ -7205,7 +7512,7 @@
         "Comoros": "KM"
       },
       {
-        "Congo": "CD"
+        "Democratic Republic of the Congo": "CD"
       },
       {
         "Congo": "CG"
@@ -8001,7 +8308,7 @@
         "Congo": "CG"
       },
       {
-        "Congo": "CD"
+        "Democratic Republic of the Congo": "CD"
       },
       {
         "Benin": "BJ"
@@ -8755,7 +9062,7 @@
   "Kosovo": [
     [
       {
-        "Kosovo": "0"
+        "Kosovo": "XK"
       }
     ],
     "Kosovo"
@@ -8833,7 +9140,7 @@
         "Congo": "CG"
       },
       {
-        "Congo": "CD"
+        "Democratic Republic of the Congo": "CD"
       },
       {
         "Benin": "BJ"
