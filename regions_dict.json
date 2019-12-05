@@ -6658,6 +6658,14 @@
       ],
       "Belgium"
     ],
+    "South Korea": [
+      [
+        {
+          "South Korea": "KR"
+        }
+      ],
+      "Korea"
+    ],
     "Guatemala": [
       [
         {
@@ -7114,14 +7122,6 @@
         }
       ],
       "Uganda"
-    ],
-    "South Korea": [
-      [
-        {
-          "South Korea": "KR"
-        }
-      ],
-      "Korea"
     ]
   },
   "MARKAL-India": {
