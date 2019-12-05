@@ -68,7 +68,7 @@
           "Hong Kong": "HK"
         },
         {
-          "Korea": "KP"
+          "North Korea": "KP"
         },
         {
           "Kyrgyz Republic": "KG"
@@ -2959,6 +2959,9 @@
         },
         {
           "Turkey": "TR"
+        },
+        {
+          "Yemen": "YE"
         }
       ],
       "Bahrain,Iran,Iraq,Israel,Jordan,Kuwait,Lebanon,Oman,Qatar,Saudi Arabia,Syrian Arab Republic,United Arab Emirates,Yemen,Cyprus,Turkey"
@@ -3249,7 +3252,10 @@
           "Indonesia": "ID"
         },
         {
-          "Korea": "KP"
+          "Papua New Guinea": "PG"
+        },
+        {
+          "North Korea": "KP"
         },
         {
           "Lao People's Democratic Republic": "LA"
@@ -3289,9 +3295,6 @@
         },
         {
           "Thailand": "TH"
-        },
-        {
-          "Yemen": "YE"
         }
       ],
       "Afghanistan,Bangladesh,Bhutan,British Indian Ocean Territory (Chagos Archipelago),Brunei Darussalam,Myanmar,Cambodia,Sri Lanka,Taiwan,Christmas Island,Cocos (Keeling) Islands,Hong Kong,Indonesia,Korea,Lao People's Democratic Republic,Macao,Malaysia,Maldives,Mongolia,Nepal,Pakistan,Palestine,Philippines,Timor-Leste,Singapore,Vietnam,Thailand,Yemen"
@@ -3454,9 +3457,6 @@
           "Palau": "PW"
         },
         {
-          "Papua New Guinea": "PG"
-        },
-        {
           "Pitcairn Islands": "PN"
         },
         {
@@ -3483,7 +3483,7 @@
     "Republic of Korea": [
       [
         {
-          "Korea": "KR"
+          "South Korea": "KR"
         }
       ],
       "Korea"
@@ -4161,7 +4161,7 @@
           "Kiribati": "KI"
         },
         {
-          "Korea": "KP"
+          "North Korea": "KP"
         },
         {
           "Kyrgyz Republic": "KG"
@@ -6658,10 +6658,10 @@
       ],
       "Belgium"
     ],
-    "Korea": [
+    "South Korea": [
       [
         {
-          "Korea": "KR"
+          "South Korea": "KR"
         }
       ],
       "Korea"
@@ -7683,10 +7683,10 @@
           "Kiribati": "KI"
         },
         {
-          "Korea": "KP"
+          "North Korea": "KP"
         },
         {
-          "Korea": "KR"
+          "South Korea": "KR"
         },
         {
           "Kuwait": "KW"
@@ -8702,10 +8702,10 @@
     "KOR": [
       [
         {
-          "Korea": "KR"
+          "South Korea": "KR"
         }
       ],
-      "Korea"
+      "South Korea"
     ],
     "EA": [
       [
@@ -8722,7 +8722,7 @@
           "Cook Islands": "CK"
         },
         {
-          "Korea": "KP"
+          "North Korea": "KP"
         },
         {
           "Fiji": "FJ"
@@ -9507,10 +9507,10 @@
           "Japan": "JP"
         },
         {
-          "Korea": "KP"
+          "North Korea": "KP"
         },
         {
-          "Korea": "KR"
+          "South Korea": "KR"
         },
         {
           "Lao People's Democratic Republic": "LA"
