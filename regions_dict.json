@@ -9893,29 +9893,13 @@
     ]
   },
   "MAPLE": {
-    "USA": [
+    "CHINA": [
       [
         {
-          "USA": "US"
+          "CHINA": "CN"
         }
       ],
-      "USA"
-    ],
-    "CANADA": [
-      [
-        {
-          "CANADA": "CA"
-        }
-      ],
-      "CANADA"
-    ],
-    "MEXICO": [
-      [
-        {
-          "MEXICO": "MX"
-        }
-      ],
-      "MEXICO"
+      "CHINA"
     ]
   },
   "TIMES-CAC": {
